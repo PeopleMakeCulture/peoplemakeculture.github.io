@@ -1,4 +1,4 @@
-## HELLO WORLD!
+### HELLO WORLD!
 Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art historian](https://archive-it.org/home/ArtPractical) turned [data nerd](https://opendata.cityofnewyork.us/how-to/#apidocumentation). I have experience with **data engineering** and **fullstack development**. I am seeking opportunities to empower social impact organizations to make better data-driven decisions by building robust, user-friendly tools for data insights and analytics. 
 
 ### SKILLS

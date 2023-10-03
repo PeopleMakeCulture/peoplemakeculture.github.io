@@ -3,8 +3,6 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 
 see my new [about me page](./about.html)!
 
-<div style="color:blue">this is blue text and the styling was done in html</div>
-
 ### SKILLS
 > I believe my core engineering skills are **listening**, **problem-solving**, and **self-directed learning**. Here's a list of others you may care about, especially if you are an ATS. New skills may not be listed; old skills may atrophy. If you're not sure, please ask. <br>
   

@@ -1,4 +1,4 @@
-[Stuff I Wrote](./#articles) [Things I Made] [Today I Learned]
+[[Stuff I Wrote](./#articles)] [[Things I Made](./#projects)] [[Today I Learned](./#til)]
 
 ### HELLO WORLD!
 

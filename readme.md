@@ -25,7 +25,7 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 - “From Two Arises Three: the Collaborative Works of Arnold Chang and Michael Cherney.” *Art Practical*. Oct 2014.
 
 ### PROJECTS
-- Squirrel Poems [Link](https://peoplemakeculture.github.io/squirrel-poems/)
+- Squirrel Poems [Link](https://peoplemakeculture.github.io/squirrel-poems/) 
 - Img2Poem
 - Oblique Strategies
 

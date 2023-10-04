@@ -2,7 +2,7 @@
 
 ### HELLO WORLD!
 
-Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art historian](https://archive-it.org/home/ArtPractical) turned [data nerd](https://opendata.cityofnewyork.us/how-to/#apidocumentation). 
+Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art historian](https://archive-it.org/home/ArtPractical) turned [data nerd](https://opendata.cityofnewyork.us/how-to/#apidocumentation). Here's a collection of things I've [written](#articles), [made](#projects), or [learned](#til). 
 
 
 ### ARTICLES

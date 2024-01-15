@@ -22,10 +22,10 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 - “Mind Traveling: Ink Art of Lu Chuntao at the Chinese Culture Center.” *Art Practical*. April 2015.
 - “In Defense of Play: A Review of Javier Tellez’s *Games are Forbidden in the Labyrinth*.” *Art Practical*. March 2015.
 - [“The Anderson Collection: A History of Californian Innovation.”](./anderson.html) *Art Practical*. Feb 2015.
-- “From Two Arises Three: the Collaborative Works of Arnold Chang and Michael Cherney.” *Art Practical*. Oct 2014.
+- [“From Two Arises Three: the Collaborative Works of Arnold Chang and Michael Cherney.”](chang-cherney.html) *Art Practical*. Oct 2014.
 
 ### PROJECTS
-- Squirrel Poems [Link](https://peoplemakeculture.github.io/squirrel-poems/) 
+- [Squirrel Poems](https://peoplemakeculture.github.io/squirrel-poems/) 
 - Img2Poem
 - Oblique Strategies
 

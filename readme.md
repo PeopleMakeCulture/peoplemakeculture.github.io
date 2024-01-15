@@ -16,7 +16,7 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 - “Made in Taiwan: A Retrospective of Yang Mao-lin at the Taipei Fine Arts Museum.” *Daily Serving*. Mar 2016.
 - “He Yunchang: Water Forming Stone at Ink Studio.” *Daily Serving*. Jan 2016.
 - “Taca Sui: Steles—Huang Yi Project at Chambers Fine Art Beijing,” Exhibition Review in *Daily Serving*. Sept 2015.
-- “28 Chinese at the Asian Art Museum.” *Art Practical*. June 2015.
+- [“28 Chinese at the Asian Art Museum.”](./28-chinese.html) *Art Practical*. June 2015.
 - “Van Gogh on Demand: China and the Ready-made.” *Art Practical*, June 2015.
 - “On Kawara: Silence at the Guggenheim Museum.“ *Daily Serving*, April 2015.
 - “Mind Traveling: Ink Art of Lu Chuntao at the Chinese Culture Center.” *Art Practical*. April 2015.

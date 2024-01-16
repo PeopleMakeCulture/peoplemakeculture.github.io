@@ -11,14 +11,14 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 - [“The Schoolhouse and the Bus: Interviews with Suzanne Lacy and Pablo Helguera”](schoolhouse-bus.html) in *Art Practical*. Feb 2018.
 - [“Axé Bahia: The Power of Art in an Afro-Brazilian Metropolis at the Fowler Museum.”](axe-bahia.html) *Art Practical.* Jan 2018.
 - [“The U.S. Should Learn from Taiwan’s Commitment to Providing Museum Access to Rural Poor.”](https://www.artsy.net/article/artsy-editorial-learn-taiwans-commitment-providing-museum-access-rural-poor) *Artsy Magazine.* Feb 2017.
-- “Tales of Our Time at the Guggenheim Museum.” *Daily Serving*. Dec 2016.
+- [“Tales of Our Time at the Guggenheim Museum.”](guggenheim-tales.html) *Daily Serving*. Dec 2016.
 - “Between Declarations and Dreams: Art of Southeast Asia since the 19th Century at the National Gallery Singapore.” *Daily Serving.* Sept 2016.
 - “Made in Taiwan: A Retrospective of Yang Mao-lin at the Taipei Fine Arts Museum.” *Daily Serving*. Mar 2016.
-- “He Yunchang: Water Forming Stone at Ink Studio.” *Daily Serving*. Jan 2016.
-- “Taca Sui: Steles—Huang Yi Project at Chambers Fine Art Beijing,” Exhibition Review in *Daily Serving*. Sept 2015.
+- [“He Yunchang: Water Forming Stone at Ink Studio.”](he-ink-stone.html) *Daily Serving*. Jan 2016.
+- [“Taca Sui: Steles—Huang Yi Project at Chambers Fine Art Beijing,”](taca-sui.html) Exhibition Review in *Daily Serving*. Sept 2015.
 - [“28 Chinese at the Asian Art Museum.”](28-chinese.html) *Art Practical*. June 2015.
 - [“Van Gogh on Demand: China and the Ready-made.”](van-gogh-china.html) *Art Practical*, June 2015.
-- “On Kawara: Silence at the Guggenheim Museum.“ *Daily Serving*, April 2015.
+- [“On Kawara: Silence at the Guggenheim Museum.“](on-kawara.html) *Daily Serving*, April 2015.
 - [“Mind Traveling: Ink Art of Lu Chuntao at the Chinese Culture Center.”](lu-mind-traveling.html) *Art Practical*. April 2015.
 - [“In Defense of Play: A Review of Javier Tellez’s *Games are Forbidden in the Labyrinth*.”](tellez-games.html) *Art Practical*. March 2015.
 - [“The Anderson Collection: A History of Californian Innovation.”](anderson.html) *Art Practical*. Feb 2015.

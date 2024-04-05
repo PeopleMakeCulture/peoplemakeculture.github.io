@@ -15,7 +15,7 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 - [“The U.S. Should Learn from Taiwan’s Commitment to Providing Museum Access to Rural Poor.”](https://www.artsy.net/article/artsy-editorial-learn-taiwans-commitment-providing-museum-access-rural-poor) *Artsy Magazine.* Feb 2017.
 - [“Tales of Our Time at the Guggenheim Museum.”](guggenheim-tales.html) *Daily Serving*. Dec 2016.
 - “Between Declarations and Dreams: Art of Southeast Asia since the 19th Century at the National Gallery Singapore.” *Daily Serving.* Sept 2016.
-- “Made in Taiwan: A Retrospective of Yang Mao-lin at the Taipei Fine Arts Museum.” *Daily Serving*. Mar 2016.
+- [“Made in Taiwan: A Retrospective of Yang Mao-lin at the Taipei Fine Arts Museum.”](made-in-taiwan.html) *Daily Serving*. Mar 2016.
 - [“He Yunchang: Water Forming Stone at Ink Studio.”](he-ink-stone.html) *Daily Serving*. Jan 2016.
 - [“Taca Sui: Steles—Huang Yi Project at Chambers Fine Art Beijing,”](taca-sui.html) Exhibition Review in *Daily Serving*. Sept 2015.
 - [“28 Chinese at the Asian Art Museum.”](28-chinese.html) *Art Practical*. June 2015.

@@ -14,7 +14,7 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 - [“Axé Bahia: The Power of Art in an Afro-Brazilian Metropolis at the Fowler Museum.”](axe-bahia.html) *Art Practical.* Jan 2018.
 - [“The U.S. Should Learn from Taiwan’s Commitment to Providing Museum Access to Rural Poor.”](https://www.artsy.net/article/artsy-editorial-learn-taiwans-commitment-providing-museum-access-rural-poor) *Artsy Magazine.* Feb 2017.
 - [“Tales of Our Time at the Guggenheim Museum.”](guggenheim-tales.html) *Daily Serving*. Dec 2016.
-- “Between Declarations and Dreams: Art of Southeast Asia since the 19th Century at the National Gallery Singapore.” *Daily Serving.* Sept 2016.
+- [“Between Declarations and Dreams: Art of Southeast Asia since the 19th Century at the National Gallery Singapore.”](national-gallery-singapore.html) *Daily Serving.* Sept 2016.
 - [“Made in Taiwan: A Retrospective of Yang Mao-lin at the Taipei Fine Arts Museum.”](made-in-taiwan.html) *Daily Serving*. Mar 2016.
 - [“He Yunchang: Water Forming Stone at Ink Studio.”](he-ink-stone.html) *Daily Serving*. Jan 2016.
 - [“Taca Sui: Steles—Huang Yi Project at Chambers Fine Art Beijing,”](taca-sui.html) Exhibition Review in *Daily Serving*. Sept 2015.

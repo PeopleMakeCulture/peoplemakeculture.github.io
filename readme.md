@@ -33,4 +33,3 @@ Hi! I am [Jing](https://www.linkedin.com/in/jingcao1/), an NYC-based [art histor
 
 ## TIL
 - [2024-04-15](TIL/2024-04-15.md)
-- TIL/2024-04-15.md

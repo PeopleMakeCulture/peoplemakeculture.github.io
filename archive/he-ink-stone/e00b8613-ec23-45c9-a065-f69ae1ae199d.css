@@ -1,0 +1,35 @@
+/* 	
+	These are only the default styles.
+	If you wish to add your own CSS styles, it is best to amend your theme's style.css file.
+*/
+
+/* General */
+.tw-content { float:left; width:100%; clear:both; background:#f2f2f2;  }
+.tabbed-widget { float:left; width:100%; clear:both; padding-bottom:10px;}
+.tabbed-widget .ui-tabs-hide { display:none; }
+
+/* Tabs */
+.tw-tabbed-nav { float:left; width:100%; clear:both; margin:0; padding:0; }
+.tw-tabbed-nav li { float:left; display:block; margin:0; padding:0; }
+.tw-tabbed-nav a { float:left; margin-right:1sem; }
+
+/* Accordion */
+.tw-accordion .tw-title a { display:block; outline:0; text-decoration:none; padding-left:18px; height:12px; }
+.tw-accordion .ui-state-default a { background:url('https://wayback.archive-it.org/15633/20210121014756im_/http://dev.dailyserving.com/wp-content/plugins/tabbed-widgets/images/onlight-accordion-closed-2.png') no-repeat; padding-right: 70px; }
+.tw-accordion .ui-state-active a { background:url('https://wayback.archive-it.org/15633/20210121014756im_/http://dev.dailyserving.com/wp-content/plugins/tabbed-widgets/images/onlight-accordion-open-3.png') no-repeat; text-decoration:none; padding-right: 70px; }
+
+
+/*
+     FILE ARCHIVED ON 01:47:56 Jan 21, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:50:24 Jan 09, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RulesEngine.query: 0.009
+  PetaboxLoader3.resolve: 42.7
+  PetaboxLoader3.datanode: 28.907
+*/

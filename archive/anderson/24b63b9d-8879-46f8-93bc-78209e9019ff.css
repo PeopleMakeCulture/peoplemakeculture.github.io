@@ -1,0 +1,201 @@
+.print-logo {
+	display:block;
+	margin:0 auto 15px;
+}
+#header,
+#footer,
+.tabs-holder,
+.tabset,
+.text-box .caption {
+	display:none;
+}
+body{
+	margin:0;
+	font:14px/24px Arial, Helvetica, sans-serif;
+	color:#000;
+}
+img{border:0;}
+a{
+	text-decoration:none;
+	color:#000;
+}
+ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.content-list {
+	list-style:none;
+	margin:0 0 28px;
+	padding:20px 0 0;
+	font-size:18px;
+	line-height:20px;
+}
+.content-list li {
+	margin:0 0 14px;
+}
+.content-list li a {
+	color:#000;
+}
+.content-list li a span {color:#888;}
+.tab-content .content-list h2 {
+	font:18px/22px "gandhi_sansregular";
+	color:#000;
+	margin:0;
+}
+.tab-content .content-list .author {
+	display:block;
+	color:#11004b;
+	font-size:14px;
+	line-height:20px;
+}
+.tab-content .content-list .date {
+	font:italic 13px/20px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+	display:block;
+}
+.pagination,
+.sort-form,
+.intro,
+.article .aside,
+.article .media .holder,
+.gallery-info,
+.article .visual,
+.advertisemet-box,
+.carousel-holder h3,
+.slideshow,
+.article section .back,
+.slide .ico,
+.carousel .btn-prev,
+.carousel .btn-next  {display:none;}
+.carousel p {margin:0 0 2px;}
+div.carousel div.mask div.slide {margin:0 0 15px;}
+.carousel .date {
+	font:12px/16px Arial, Helvetica, sans-serif;
+	color:#333;
+	display:block;
+	margin:0 0 2px;
+}
+.carousel .type,
+.carousel .author {
+	display:block;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+}
+#content h1 {
+	color:#000;
+	font:30px/32px Arial, Helvetica, sans-serif;
+	margin:-6px 0 24px;
+	padding:0;
+	border:0;
+}
+#sidebar h2 {
+	font:24px/26px Georgia, "Times New Roman", Times, serif;
+	margin:0 0 18px;
+}
+.carousel2 .slide ul h3 {
+	font:18px/20px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:0;
+}
+.carousel h4 {
+	font:19px/21px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:0 0 1px;
+}
+.carousel2 .slide ul h3 a {
+	color:#000;
+}
+.carousel2 .slide ul li {
+	margin:0 0 15px;
+}
+.carousel2 .slide ul .author {
+	display:block;
+	color:#325951;
+	line-height:20px;
+}
+.carousel2 .slide ul .date {
+	display:block;
+	color:#666;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+}
+.article h2 {
+	color:#042a68;
+	font:30px/32px Georgia, "Times New Roman", Times, serif;
+	margin:0 0 2px;
+}
+.article h1 {
+	margin:0 0 10px;
+	font:48px/49px Arial, Helvetica, sans-serif;
+	color:#000;
+	position:relative;
+}
+.posts-list h3 {
+	margin:0;
+	color:#000;
+	font:18px/19px Arial, Helvetica, sans-serif;
+}
+.posts-list .author {
+	display:block;
+	font:italic 13px/22px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+}
+.post .author {
+	display:block;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+	margin:0 0 2px;
+}
+.post h4 {
+	margin:0 0 2px;
+	font:18px/20px Arial, Helvetica, sans-serif;
+	color:#000;
+	word-spacing:-1px;
+}
+.post h4 a {color:#000;}
+.post .type {
+	font:14px/18px Arial, Helvetica, sans-serif;
+	display:block;
+	color:#391654;
+	margin:0 0 4px;
+}
+.post p {margin:0;}
+.content-holder .post h2 {
+	font:26px/28px Arial, Helvetica, sans-serif;
+	margin:0 0 10px;
+}
+.content-holder.tab-content .post h2 {color:#343434;}
+.content-holder .post h2 span {color:#ababab;}
+.content-holder h3 {
+	color:#1c486c;
+	font:26px/28px Georgia, "Times New Roman", Times, serif;
+	margin:0 0 10px;
+}
+.posts-holder h2 {
+	padding:8px 0 0;
+	margin:0 0 8px;
+	font:34px/36px Georgia, "Times New Roman", Times, serif;
+}
+.posts-holder h3 {
+	margin:0 0 17px;
+	font:26px/28px Georgia, "Times New Roman", Times, serif;
+}
+.article section h1 {
+	font:34px/36px Georgia, "Times New Roman", Times, serif;
+	margin:0 0 20px;
+}
+
+/*
+     FILE ARCHIVED ON 08:46:09 Dec 25, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:56:04 Jan 09, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RulesEngine.query: 64.864
+  PetaboxLoader3.resolve: 158.451 (2)
+  PetaboxLoader3.datanode: 135.484 (2)
+*/

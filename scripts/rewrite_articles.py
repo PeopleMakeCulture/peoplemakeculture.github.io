@@ -1,14 +1,14 @@
 import csv
 import os
 
-CAPTURES = "scripts/imagecaptures.csv"
+CAPTURES = "scripts/assetcapture.csv"
 with open(CAPTURES) as f:
-    images_to_archive: list[tuple[str, str, str, str]] = [
+    assets_to_archive: list[tuple[str, str, str, str]] = [
         (row["article"], row["url"], row["uuid"], row["extension"])
         for row in csv.DictReader(f)
     ]
 
-archived_articles = set([article for (article, _, _, _) in images_to_archive])
+archived_articles = set([article for (article, _, _, _) in assets_to_archive])
 for article in archived_articles:
     old_filename = f"./{article}.html"
     new_filename = f"./archive/{article}/index.html"
@@ -30,14 +30,14 @@ for article in archived_articles:
 
     # Perform all rewrites
     new_contents = old_contents
-    for row_article, url, uuid, extension in images_to_archive:
+    for row_article, url, uuid, extension in assets_to_archive:
         if article != row_article:
             continue
         if extension == "" or extension == "n/a":
             continue
         new_contents = new_contents.replace(
-            f"'{url}'", f"'/images/{article}/{uuid}.{extension}'"
-        ).replace(f'"{url}"', f'"/images/{article}/{uuid}.{extension}"')
+            f"'{url}'", f"'/archive/{article}/{uuid}.{extension}'"
+        ).replace(f'"{url}"', f'"/archive/{article}/{uuid}.{extension}"')
 
     if new_contents == archived_new_contents:
         print("No changes.")

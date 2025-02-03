@@ -1,4 +1,5 @@
 import csv
+import re
 import os
 
 CAPTURES = "scripts/assetcapture.csv"
@@ -28,7 +29,7 @@ for article in archived_articles:
     except:
         pass
 
-    # Perform all rewrites
+    # Perform all asset rewrites
     new_contents = old_contents
     for row_article, url, uuid, extension in assets_to_archive:
         if article != row_article:
@@ -38,6 +39,13 @@ for article in archived_articles:
         new_contents = new_contents.replace(
             f"'{url}'", f"'/archive/{article}/{uuid}.{extension}'"
         ).replace(f'"{url}"', f'"/archive/{article}/{uuid}.{extension}"')
+
+    # Attempt to rewrite insufficiently-absolute links
+    new_contents = re.sub(
+        r'([\'"])(/[0-9]{3,6}/[0-9]{14}/)',
+        r"\g<1>https://wayback.archive-it.org\g<2>",
+        new_contents,
+    )
 
     if new_contents == archived_new_contents:
         print("No changes.")

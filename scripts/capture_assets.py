@@ -52,7 +52,6 @@ for filename in os.listdir("."):
     if not filename.endswith(".html"):
         continue
     print(f"Inspecting {filename}")
-
     base = filename[:-5]
     with open(filename) as f:
         soup = BeautifulSoup(f.read(), "html.parser")

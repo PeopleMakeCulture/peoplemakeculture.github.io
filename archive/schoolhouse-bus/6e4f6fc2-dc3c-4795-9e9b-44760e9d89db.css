@@ -1,0 +1,4475 @@
+@font-face {
+	font-family: 'gandhi_sansitalic';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-italic-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-italic-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-italic-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-italic-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-italic-webfont.svg#gandhi_sansitalic') format('svg');
+}
+@font-face {
+	font-family: 'gandhi_sansbold';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bold-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bold-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bold-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bold-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bold-webfont.svg#gandhi_sansbold') format('svg');
+}
+@font-face {
+	font-family: 'gandhi_sansbold_italic';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bolditalic-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bolditalic-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bolditalic-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bolditalic-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-bolditalic-webfont.svg#gandhi_sansbold_italic') format('svg');
+}
+@font-face {
+	font-family: 'gandhi_sansregular';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-regular-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-regular-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-regular-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-regular-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/gandhisans-regular-webfont.svg#gandhi_sansregular') format('svg');
+}
+@font-face {
+	font-family: 'betonef-boldregular';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-bold-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-bold-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-bold-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-bold-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-bold-webfont.svg#betonef-boldregular') format('svg');
+}
+@font-face {
+	font-family: 'betonef-demiboldregular';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-demibold-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-demibold-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-demibold-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-demibold-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/betonef-demibold-webfont.svg#betonef-demiboldregular') format('svg');
+}
+@font-face {
+	font-family: 'proxima_nova_rgbold';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_bold-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_bold-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_bold-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_bold-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_bold-webfont.svg#proxima_nova_rgbold') format('svg');
+}
+@font-face {
+	font-family: 'proxima_novaregular_italic';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg_it-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg_it-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg_it-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg_it-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg_it-webfont.svg#proxima_novaregular_italic') format('svg');
+}
+@font-face {
+	font-family: 'proxima_nova_rgregular';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_reg-webfont.svg#proxima_nova_rgregular') format('svg');
+}
+@font-face {
+	font-family: 'proxima_novalight';
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_light-webfont.eot');
+	src: url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_light-webfont.eot#iefix') format('embedded-opentype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_light-webfont.woff') format('woff'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_light-webfont.ttf') format('truetype'),
+	url('/15633/20201226025722im_/https://www.artpractical.com/assets/fonts/proxima_nova_light-webfont.svg#proxima_novalight') format('svg');
+}
+*{
+	max-height:20000px;
+}
+body{
+	margin:0;
+	font:16px/27px "gandhi_sansregular";
+	color:#343434;
+	-webkit-text-size-adjust:100%;
+	-ms-text-size-adjust: none;
+	overflow-x: hidden;
+}
+img{border:0;}
+a{
+	text-decoration:none;
+	color:#800118;
+}
+a:hover{
+	text-decoration:underline;
+}
+a:active {background-color: transparent;}
+input, textarea, select{
+	font:100% arial,sans-serif;
+	vertical-align:middle;
+	color:#000;
+}
+form, fieldset{
+	margin:0;
+	padding:0;
+	border-style:none;
+}
+header, footer, article, section, hgroup, nav, figure, aside { display: block; }
+figure {
+	margin:0;
+	padding:0;
+}
+input[type="image"]{padding:0;border:none;}
+input[type=text], input[type=password], input[type=file], input[type=submit], textarea{
+	-webkit-appearance:none;
+	-webkit-border-radius:0;
+}
+q{quotes: none;}
+q:before{content:"";}
+q:after{content:"";}
+.print-logo {display:none;}
+#header {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/bg-header.png) repeat-x;
+	height: 53px;
+	z-index:100000;
+	border-bottom:4px solid #1c486c;
+}
+
+/*
+#header.header-stroke-features {border-bottom:4px solid #042a68;}
+#header.header-stroke-columns {border-bottom:4px solid #391654;}
+#header.header-stroke-reviews {border-bottom:4px solid #00523c;}
+#header.header-stroke-events {border-bottom:4px solid #4e6700;}
+#header.header-stroke-default {border-bottom:4px solid #1c486c;}
+*/
+
+#header .logo {
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/logo.png) no-repeat;
+	width: 43px;
+	height: 43px;
+	text-indent:-9999px;
+	overflow:hidden;
+	position:absolute;
+	top:5px;
+	left:50%;
+	margin-left:-21px;
+}
+#header .logo a {
+	display:block;
+	height:100%;
+}
+#nav {
+	width:100%;
+	overflow:hidden;
+}
+#nav .row {
+	width:1024px;
+	margin:0 auto;
+	position:relative;
+	overflow:hidden;
+}
+#nav .opener {
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite.png') no-repeat -28px 0; 
+	width: 23px; 
+	height: 17px;
+	display:block;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin:20px 0 19px 39px;
+}
+#nav .opener:hover,
+#nav.active .opener {opacity:0.6;}
+#nav .slide {
+	width:100%;
+	background:#fff url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/bg-slide.png) repeat-x 0 100%;
+	border-bottom:4px solid #757575;
+	display:none;
+}
+#nav .slide > ul {
+	max-width:1024px;
+	margin:0 auto;
+	list-style:none;
+	padding:22px 0 38px;
+	overflow:hidden;
+}
+#nav .slide > ul > li {
+	float:left;
+	padding:0 0 0 39px;
+}
+#nav .slide > ul > li.publication {width:172px;}
+#nav .slide > ul > li.archive {width:186px;}
+#nav .slide > ul > li.events {width:200px;}
+#nav .slide > ul > li.about {width:156px;}
+#nav .slide > ul > li.support {width:76px;}
+#nav .slide > ul > li > a {
+	color:#004a88;
+	font:18px/22px "gandhi_sansregular";
+	border-bottom:2px solid #aaa;
+}
+#nav .slide > ul > li > a:hover {text-decoration:none;}
+#nav .slide > ul > li ul {
+	list-style:none;
+	margin:0;
+	padding:8px 0 1px 1px;
+	font:20px/23px "betonef-demiboldregular";
+}
+#nav .slide > ul > li ul a {color:#111;}
+.accord-opener,
+.accord-opener:hover {
+	cursor:default;
+}
+#header .search {
+	float:right;
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite.png') no-repeat 0 0; 
+	width: 23px; 
+	height: 23px;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin:17px 38px 0 0;
+}
+#header .search:hover {opacity:0.6;}
+#wrapper {
+	width:946px;
+	padding:56px 39px 0;
+	margin:0 auto;
+}
+#wrapper:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+.slideshow {
+	position: relative;
+	margin:0 -39px 0;
+}
+div.slideshow div.slide {
+	position: absolute;
+	z-index: 1;
+	width:100%;
+	max-height: 576px;
+/* 	visibility: hidden; */
+	overflow: hidden;
+}
+div.slideshow div.slide.active {
+	z-index: 2;
+/* 	visibility: visible; */
+}
+.slideshow img {
+	display:block;
+	width:100%;
+	height:auto;
+}
+.slide-heading {
+	background:rgba(255,255,255,0.69);
+	position:absolute;
+	top:77px;
+	left:0;
+	width:100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding:15px 39px 30px;
+}
+.issue-heading {
+	position:static;
+}
+.slide-heading .title {
+	display:block;
+	font:26px/28px "betonef-demiboldregular";
+	margin:0 0 4px;
+	color:#004a88;
+}
+.slide-heading .title a {
+	color:#004a88;
+}
+
+/*.slide-heading .title-issue,
+.slide-heading .title-feature {
+	color:#00307f;	
+}
+.slide-heading .title-review {
+	color:#00644b;
+}
+.slide-heading .title-column,
+.slide-heading .title-column a {
+	color:#3c006a;
+}
+.slide-heading .title-event {
+	color:#557000
+}*/
+
+.intro .slide-heading .title  {
+	font-size:30px;
+}
+.slide-heading h1 {
+	font:42px/44px "proxima_nova_rgregular";
+	color:#232323;
+	margin:0 0 8px;
+}
+.intro .slide-heading h1 {
+	font-size:44px;
+	line-height:45px;
+	margin:0 0 5px;
+}
+.slide-heading h1 span {color:#6b6b6b;}
+.slide-heading .author {
+	display:block;
+	font:italic 14px/16px Georgia, "Times New Roman", Times, serif;
+	color:#505152;
+}
+.slide-heading h1 a {
+	color:#000;
+}
+.slideshow .text {
+	background:rgba(255,255,255,0.69);
+	position:absolute;
+	left:0;
+	bottom:63px;
+	width:100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding:20px 39px 32px;
+	color:#111;
+	font:15px/21px "gandhi_sansregular";
+}
+.slideshow .text p {
+	margin:0;
+	width:710px;
+}
+.slide-article .slide-heading {
+	top:auto;
+	bottom:87px;
+	padding:15px 180px 30px 39px;
+}
+.slide-article .more {
+	position:absolute;
+	bottom:29px;
+	right:39px;
+	color:#434343;
+	font-size:17px;
+}
+.slideset {margin:0 0 21px;}
+.slideshow .slide.slide-text img {
+	display:block;
+	opacity:0.06;
+}
+.slideshow .slide.slide-text .text {
+	top:0;
+	left:0;
+	padding:40px 10px 0 39px;
+	background:none;
+	width:100%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.slideshow .slide.slide-text .twocolumns {
+	background:none;
+	margin:0 -40px 0 0;
+	overflow:hidden;
+	padding:0;
+}
+.slideshow .slide.slide-text .twocolumns .column {
+	float:left;
+	width:50%;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	padding:0 40px  0 0;
+	background:none;
+	margin:0;
+}
+.slideshow .slide.slide-text .text p {
+	width:auto;
+	margin: 0 0 32px;
+	font-size:16px;
+	line-height:20px;
+}
+.slideshow .slide.slide-text .text .more {
+	display:inline-block;
+	vertical-align:top;
+	margin: 0 0 60px;
+	color:#800018;
+	font:italic 16px/18px Georgia, "Times New Roman", Times, serif;
+}
+.slideshow .slide.slide-text h2 {
+	font:33px/36px "betonef-demiboldregular";
+	margin: 0 0 16px;
+	color:#004a88;
+}
+.slideshow .slide.slide-text h2.title-issue {color:#1c486c;}
+.slideshow .slide.slide-text h2.title-column {color:#391654;}
+.slideshow .slide.slide-text h2.title-review {color:#00523c;}
+.slideshow .slide.slide-text h2.title-event {color:#4e6700;}
+.slideshow .slide.slide-text span {
+	display:inline-block;
+	vertical-align:top;
+	padding:0 89px 3px 3px;
+	margin-left:-3px;
+	border-bottom:4px solid #ccc;
+}
+.slideshow .pagination {
+	width:100%;
+	overflow:hidden;
+	margin:0 0 10px;
+	position:relative;
+	z-index:100;
+}
+.pagination ul {
+	float:right;
+	list-style:none;
+	margin:0;
+	padding:0 40px;
+}
+.pagination ul li {
+	float:left;
+	margin-left:9px;
+}
+.pagination ul li a {
+	display:block;
+	width:12px;
+	height:12px;
+	text-indent:-9999px;
+	overflow:hidden;
+	border:1px solid #b4b4b4;
+	background:#afafaf;
+}
+.pagination ul li a:hover,
+.pagination ul li.active a {
+	background:#5f5f5f;
+	border:1px solid #686868;
+}
+.slideshow.home .slide {
+	max-height: 425px;
+}
+.home .pagination ul li.info a {
+	position:relative;
+}
+.home .pagination ul li.info a:after {
+	content:"";
+	position:absolute;
+	top:1px;
+	left:4px;
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -24px -46px; 
+	width: 4px; 
+	height: 12px;
+	z-index:100;
+}
+#main {
+	width:100%;
+	position: relative;
+}
+.page-heading {
+	border-top:4px solid #b8b8b8;
+	margin:0 0 34px;
+}
+.page-heading .holder {
+	border-bottom:4px solid #b8b8b8;
+	padding:25px 0 22px;
+}
+.art-heading {
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/bg-art-heading.png) no-repeat;
+	width: 946px;
+	height: 26px;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin:0;
+}
+.advertisemet-box {
+	padding:39px 0 39px 17px;
+	overflow:hidden;
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider01.png) no-repeat 50% 0;
+/* 	margin:0 0 35px; */
+	position:relative;
+}
+
+
+.advertisemet-box .title {
+	display:block;
+	color:#777;
+	font:17px/19px "proxima_nova_rgregular";
+	margin:0 0 8px;
+}
+.adv-list {
+	list-style:none;
+	margin:0 -9999px 0 0;
+	padding:0;
+	overflow:hidden;
+}
+.adv-list li {
+	display:inline-block;
+	vertical-align:top;
+	margin:0 -3px 0 0;
+	padding:0 20px 20px 0;
+}
+.adv-list li img {
+	display:block;
+}
+
+/* Events Search Begin */
+
+
+/*
+body.searchEventsPage #wrapper {
+	width: 1024px;
+	padding: 96px 0 0 0;
+}
+*/
+	body.searchEventsPage h2 {
+		display: block;
+		border-top:4px solid #ccc;
+		padding:8px 0 0;
+		margin:0 0 10px;
+		color:#3c006a;
+		font-family: "betonef-demiboldregular";
+		font-weight: normal;
+	}
+	
+	body.searchEventsPage h3 {
+		margin:0 0 17px;
+		color:#004a88;
+		font:26px/28px "betonef-demiboldregular";
+		font-weight: normal;		
+	}
+
+section.large-posts-holder {
+	position: relative;
+	font-size: 0;
+	line-height: 0;
+	margin-bottom: 45px;
+}
+
+section.large-posts-holder hedaer {
+	position: relative;
+}
+
+.large-posts-holder .btn-prev,
+.large-posts-holder .btn-next {
+	background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png');
+	background-repeat: no-repeat;
+	width: 11px; 
+	height: 16px;
+	position:absolute;
+	top: 18px;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.large-posts-holder .btn-next {
+	right:0px;
+	background-position:-14px 0;
+}
+.large-posts-holder .btn-prev {
+	right:22px;	
+	background-position: 0 0;		
+}
+
+	section.large-posts-holder .posts {
+		margin-top: 25px;
+	}
+		section.large-posts-holder .posts .large-post {
+			display: inline-block;
+			vertical-align: top;
+			overflow: hidden;
+			position: relative;
+		}
+			section.large-posts-holder .posts .large-post img.visual {
+				display: block;
+				width: 100%;
+				height: auto;
+				min-height: 100%;
+			}
+			section.large-posts-holder .posts .large-post .text {
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				width: 100%;
+				background: #ffffff;
+				background: rgba(255, 255, 255, .69);
+				-moz-box-sizing: border-box;
+				-webkit-box-sizing: border-box;
+				box-sizing: border-box;
+			}
+
+				section.large-posts-holder .posts .large-post .text .ico {
+					float:right;
+					margin:1px 0 0 10px;
+				}
+		
+				section.large-posts-holder .posts .large-post .text h4 {
+					font-size: 22px;
+					line-height: 24px;
+					font-family: "gandhi_sansregular";
+					font-weight: normal;
+					color:#000;
+					margin: 0 0 3px;
+				}
+				section.large-posts-holder .posts .large-post .text em {
+					font:15px/17px "gandhi_sansregular";
+					color:#333333;
+					display: block;
+					margin: 0 0 2px;					
+				}
+				section.large-posts-holder .posts .large-post .text .type {
+					font:italic 14px/16px Georgia, "Times New Roman", Times, serif;
+					color:#666;
+				}
+
+
+body.searchEventsPage div.sections-divider {
+	text-align: center;
+	margin: 20px 0;
+	font-family: "betonef-demiboldregular";
+	text-transform: uppercase;
+	color: #004a88;
+	background-image: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/sections-divider.jpg);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;	
+	background-size: contain;
+}
+
+section.events-search-form-holder {
+	margin-bottom: 25px;	
+}
+	section.events-search-form-holder .row:after {
+		content:"";
+		display:block;
+		clear:both;
+	}
+	section.events-search-form-holder .column {
+		display: block;
+		float: left;		
+	}
+	section.events-search-form-holder .column .hidden-filters {
+		display: none;
+	}
+		section.events-search-form-holder .column .column-title {
+			font:18px/21px "proxima_nova_rgregular";			
+			color: #333333;
+			margin-bottom: 20px;
+		}
+		section.events-search-form-holder .column .input-checkbox {
+			margin-bottom: 10px;
+		}
+
+	section.events-search-form-holder .column .select-holder select {
+		max-width: 100%;
+		font-size: 16px;
+		line-height: 16px;
+	}
+
+	section.events-search-form-holder #more-filters {
+		font:22px/23px "betonef-demiboldregular";		
+		color: #808080;
+		display: inline-block;
+		margin-top: 20px;
+	}
+	section.events-search-form-holder #more-filters span {
+		position: relative;
+		display: inline-block;
+		vertical-align: top;
+		margin: 3px 5px 0 0;
+	}	
+	section.events-search-form-holder #more-filters.active span {
+		margin: 0px 5px 0 0;		
+	}
+
+
+section.events-keywords-search-form-holder {
+	margin-bottom: 45px;
+}
+
+section.events-keywords-search-form-holder .row input[type="text"] {
+	border: 1px solid #666;
+	display: inline-block;
+	vertical-align: middle;
+	padding:5px 7px;
+	color:#999;
+	font-size:14px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px; 
+	background:#fff;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+section.events-keywords-search-form-holder .row input.dirty {
+	color: #343434;
+}
+
+section.events-keywords-search-form-holder .row input[type="text"] {
+	width: 250px;
+}
+section.events-keywords-search-form-holder .row input[type="submit"] {
+	width:110px;
+	display: inline-block;	
+	height:29px;
+	background:#f2f2f2;
+	border:1px solid #666;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	color:#434343;
+	font-size:14px;
+	padding:0 0 2px;
+	cursor:pointer; 
+}
+
+#main.loading {
+	cursor: wait;
+}
+
+#main.loading:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 777;
+	background-color: rgba(255, 255, 255, .75);
+	background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/ajax-loader.gif');
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-attachment: fixed;
+}
+
+section.events-results-holder {
+/* 	padding-bottom: 40px; */
+}
+	section.events-results-holder header:after {
+		content:"";
+		display:block;
+		clear:both;
+	}
+	section.events-results-holder header h2 {
+		float: left;
+		width: 212px;
+	}
+
+	section.events-results-holder header .more {
+		float: right;
+		font:italic 18px/20px Georgia, "Times New Roman", Times, serif;
+		color:#800018;
+		margin-top: 22px;
+	}
+
+section.events-results-holder div.results-list {
+	position: relative;
+	font-size: 0;
+	line-height: 0;
+	margin-top: 10px;
+}
+
+	section.events-results-holder div.results-list div.list-item {
+		display: inline-block;
+		vertical-align: top;
+		color:#444;
+		font-size:14px;
+		line-height:16px;
+
+		height:auto;
+		position:relative;
+	}
+
+		section.events-results-holder div.results-list div.list-item .visual {
+			display:block;
+			margin:0 0 9px;
+		}
+		section.events-results-holder div.results-list div.list-item .visual img {
+			display:block;
+			width:100%;
+			height:auto;
+		}
+		section.events-results-holder div.results-list div.list-item .text {
+			overflow:hidden;
+		}
+		section.events-results-holder div.results-list div.list-item .text h4 {
+			font:19px/21px "gandhi_sansregular";
+			color:#000;
+			margin:0 0 1px;
+		}
+			section.events-results-holder div.results-list div.list-item .text h4 a {
+				color:#000;
+			}
+			section.events-results-holder div.results-list div.list-item .text h4 a span {
+				color:#ababab;
+			}
+		section.events-results-holder div.results-list div.list-item .text p {
+			margin:0 0 3px;
+		}
+		section.events-results-holder div.results-list div.list-item .text .date {
+			font:13px/16px "gandhi_sansregular";
+			color:#3c006a;
+			display:block;
+			margin:0 0 3px;
+		}
+		section.events-results-holder div.results-list div.list-item .text .type,
+		section.events-results-holder div.results-list div.list-item .text .author {
+			display:block;
+			font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+			color:#666;
+		}
+		section.events-results-holder div.results-list div.list-item .text .ico {
+			float:right;
+			margin:3px 0 0 10px;
+		}
+
+section.events-results-holder .pagination {
+	font-family: "betonef-boldregular";
+	list-style:none;
+	padding:0;
+	margin:0;
+	text-align:center;
+}
+	section.events-results-holder .pagination li {
+		display:inline-block;
+		vertical-align:top;
+		margin:0;
+	}
+	section.events-results-holder .pagination li a {
+		color:#7f91a0;
+		float: left;
+	}
+
+	section.events-results-holder .pagination li .first {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -39px 0; 
+		width: 12px; 
+		height: 11px;
+		text-indent:-9999px;
+		overflow:hidden;
+		margin-top:3px;
+	}
+	section.events-results-holder .pagination li .prev {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -54px 0; 
+		width: 6px; 
+		height: 11px;
+		text-indent:-9999px;
+		overflow:hidden;
+		margin:3px 8px 0 0;
+	}
+	section.events-results-holder .pagination li .next {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -109px 0; 
+		width: 7px; 
+		height: 11px;
+		text-indent:-9999px;
+		overflow:hidden;
+		margin:3px 0 0 5px;
+	}
+	section.events-results-holder li .last {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -118px 0; 
+		width: 12px; 
+		height: 11px;
+		text-indent:-9999px;
+		overflow:hidden;
+		margin-top:3px;
+	}
+	section.events-results-holder li.active a {
+		color:#41576a;
+	}
+
+
+body.searchEventsPage #wrapper #footer {
+	margin-top: 80px;
+}
+
+
+
+/* Events Search End */
+
+.carousel-holder {
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider01.png) no-repeat 50% 0;
+	padding:20px 0 44px;
+}
+.carousel-holder.carousel-holder-bottom {
+	background: none;
+	border: none;
+	padding:0px 0 16px;
+/* 	margin:0 0 43px 0; */
+}
+.carousel {
+	position: relative;
+}
+.carousel2 {
+	background:none;
+	padding:0;
+}
+.carousel-big {
+	padding:0 0 38px;
+}
+.events-box .carousel {
+	padding:0 0 10px;
+}
+.carousel-holder header {
+	width:100%;
+	overflow:hidden;
+}
+.events-box  header {
+	margin:0 0 6px;
+}
+.carousel-holder header .more,
+.posts-holder  header .more {
+	float:right;
+	font:italic 16px/18px Georgia, "Times New Roman", Times, serif;
+	margin:15px 0 0;
+}
+.events-box  header .more {
+	margin:10px 3px 0 0;
+}
+.posts-holder  header .more {
+	margin:24px 3px 0 0;
+}
+div.carousel div.mask {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+div.carousel div.mask div.slideset {
+	width: 99999px;
+	overflow:hidden;
+}
+div.carousel div.mask div.slide {
+	width: 173px;
+	float: left;
+	color:#444;
+	font-size:14px;
+	line-height:16px;
+	margin:0 20px 0 0;
+	height:auto;
+	position:relative;
+}
+div.carousel div.mask div.slide .frame {
+	overflow:hidden;
+}
+div.carousel-big div.mask div.slide {
+	width:220px;
+	margin:0 22px 0 0;
+}
+.carousel-holder h2 {
+	color:#391654;
+	font:32px/34px "betonef-demiboldregular";
+	margin:0 0 10px;
+}
+.events-box h2 {
+	margin:0 0 3px;
+}
+.carousel-holder h3 {
+	color:#004a88;
+	font:26px/28px "betonef-demiboldregular";
+	margin:0 0 10px;
+	padding:5px 0 0;
+}
+.carousel .visual {
+	display:block;
+	margin:0 0 9px;
+}
+.carousel .visual img {
+	display:block;
+	width:100%;
+	height:auto;
+}
+.carousel .text {
+	overflow:hidden;
+}
+.carousel h4 {
+	font:19px/21px "gandhi_sansregular";
+	color:#000;
+	margin:0 0 1px;
+}
+.col-carousel {
+	padding-bottom:9px;
+}
+.col-carousel h4  {
+	font-size:18px;
+	line-height:18px;
+}
+.col-carousel .slideset {margin:0;}
+.carousel h4 a {color:#000;}
+.carousel h4 a span {color:#ababab;}
+.carousel p {margin:0 0 2px;}
+.carousel .date {
+	font:12px/16px "gandhi_sansregular";
+	color:#333;
+	display:block;
+	margin:0 0 2px;
+}
+.carousel .type,
+.carousel .author {
+	display:block;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+}
+.slide .ico {
+	float:right;
+	margin:3px 0 0 10px;
+}
+.carousel .btn-prev,
+.carousel .btn-next {
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat 0 0; 
+	width: 11px; 
+	height: 16px;
+	position:absolute;
+	top:35px;
+	left:-22px;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+.carousel-big .btn-prev, 
+.carousel-big .btn-next {
+	top:52px;
+}
+.carousel .btn-next {
+	left:auto;
+	right:-22px;
+	background-position:-14px 0;
+}
+.twocolumns {
+	width:100%;
+	overflow:hidden;
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider01.png) no-repeat 50% 0;
+	padding:51px 0 78px;
+	font:14px/20px "gandhi_sansregular";
+	word-spacing:-1px;
+}
+.twocolumns .column {
+	float:right;
+	width:457px;
+}
+.twocolumns .column:first-child {margin:0 0 0 31px;}
+.twocolumns img {
+	display:block;
+	width:100%;
+	height:auto;
+	margin:0 0 23px;
+}
+.twocolumns p {margin:0 0 16px;}
+.twocolumns .more {
+	display:inline-block;
+	vertical-align:top;
+	font:italic 14px/20px Georgia, "Times New Roman", Times, serif;
+	color:#800018;
+}
+.tabset {
+	list-style:none;
+	margin:-3px 0 16px;
+	padding:0;
+	width:100%;
+	overflow:hidden;
+	font:32px/34px "betonef-demiboldregular";
+}
+.tabset li {
+	float:left;
+	margin:0 36px 0 0;
+}
+.tabset li a {
+	color:#999;
+	border-bottom:4px solid #fff;
+	float:left;
+	letter-spacing:-1px;
+}
+.tabset li a.active {
+	color:#434343;
+	border-color:#bababa;
+}
+.tabset li a:hover {text-decoration:none;}
+.thumbs-list {
+	list-style:none;
+	margin:0 0 3px;
+	padding:0;
+	font:17px/21px "gandhi_sansregular";
+	word-spacing:0;
+	overflow:hidden;
+}
+.thumbs-list li {
+	margin:0 0 12px;
+}
+.thumbs-list li a {color:#000;}
+#footer {
+	border-top:4px solid #bababa;
+	padding:6px 0 165px;
+	overflow:hidden;
+}
+#footer p {
+	float:left;
+	color:#666;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+	margin:0;
+	padding:4px 0 0;
+	word-spacing:-1px;
+}
+.social-networks {
+	float:right;
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.social-networks li {
+	float:left;
+	margin-left:9px;
+}
+.social-networks li a {
+	display:block;
+	text-indent:-9999px;
+	overflow:hidden;
+	width: 21px; 
+	height: 21px;
+}
+.social-networks li a.facebook {background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat 0 -90px;}
+.social-networks li a.twitter {background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -30px -90px;}
+.social-networks li a.tumblr {background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -60px -90px;}
+.social-networks li a.pinterest {background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -91px -90px;}
+.social-networks li a.rss {background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -121px -90px;}
+.social-networks li a.facebook:hover {background-position: 0 -120px;}
+.social-networks li a.twitter:hover {background-position: -30px -120px;}
+.social-networks li a.tumblr:hover {background-position: -60px -120px;}
+.social-networks li a.pinterest:hover {background-position: -91px -120px;}
+.social-networks li a.rss:hover {background-position: -121px -120px;}
+.intro {
+	margin:0 -39px 30px;
+	position:relative;
+}
+.intro img {
+	display:block;
+	width:100%;
+	height:auto;
+}
+
+.intro .solid-color {
+	display: block;
+	width: 100%;
+}
+
+.intro .slide-heading {
+	top:auto;
+	bottom:57px;
+	padding:15px 39px 24px;
+}
+.intro .issue-heading {
+	padding:25px 39px 24px;
+}
+/*
+.posts-holder {
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider01.png) no-repeat 50% 100%;
+	margin:0 0 35px;
+	position:relative;
+}
+*/
+.divider-free {
+	background:none;
+	margin:0;
+}
+.posts-holder h2 {
+	width:220px;
+	border-top:4px solid #ccc;
+	padding:8px 0 0;
+	margin:0 0 8px;
+	color:#3c006a;
+	font:34px/36px "betonef-demiboldregular";
+}
+.posts-holder #features {
+	visibility: hidden;
+	position:absolute;
+	top:-85px;
+}
+.posts-holder h2.green {
+	margin:0 0 18px;
+}
+.posts-holder h3 {
+	margin:0 0 17px;
+	color:#004a88;
+	font:26px/28px "betonef-demiboldregular";
+}
+.posts-holder .holder {
+	overflow:hidden;
+	margin:0 -22px 0 0;
+	padding:0 0 24px;
+}
+.posts-holder .post {
+	display:inline-block;
+	vertical-align:top;
+	width:220px;
+	padding:0 23px 40px 0;
+	margin:0 -4px 0 0;
+	font-size:15px;
+	line-height:21px;
+}
+
+	.posts-holder .post .ico {
+		float:right;
+		margin:3px 0 0 10px;
+	}
+
+.posts-holder h2.features-heading {
+	color:#391654;
+}
+.post .visual img {
+	display:block;
+	margin:0 0 8px;
+	width:100%;
+	height:auto;
+}
+.post .author {
+	display:block;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+	margin:0 0 2px;
+}
+.post h4 {
+	margin:0 0 2px;
+	font:18px/20px "gandhi_sansregular";
+	color:#000;
+	word-spacing:-1px;
+}
+.post h4 a {color:#000;}
+.post .type {
+	font:14px/18px "gandhi_sansregular";
+	display:block;
+	color:#3c006a;
+	margin:0 0 4px;
+}
+.post p {margin:0;}
+.post p a {color:#800118;}
+.content-holder {
+	width:100%;
+	overflow:hidden;
+	padding:0 0 53px;
+}
+.content-holder.tab-content {
+	padding:23px 0 50px;
+	min-height: 160px;
+}
+.content-holder .post h2 {
+	font:26px/28px "proxima_nova_rgregular";
+	margin:0 0 10px;
+}
+.content-holder.tab-content .post h2, .content-holder.tab-content .post h2 a {color:#343434;}
+.content-holder .post h2 span {color:#ababab;}
+.content-holder h3 {
+	color:#004a88;
+	font:24px/28px "betonef-demiboldregular";
+	margin:0 0 11px;
+}
+.content-holder .post {
+	float:left;
+	width:560px;
+	line-height:22px;
+	color:#343434;
+}
+.content-holder .post h4 {
+	font-size:24px;
+}
+.content-holder .post .author {
+	margin:-6px 0 15px;
+}
+.content-holder.tab-content .post .author {
+	margin:-6px 0 10px;
+}
+.content-holder .post p {margin:0 0 10px;}
+.content-holder .post .more {
+	color: #800118;
+	font:italic 16px/18px Georgia, "Times New Roman", Times, serif;
+}
+.entries-holder {
+	float:right;
+	width:365px;
+}
+.entries-list {
+	list-style:none;
+	margin:0 0 5px;
+	padding:0 50px 0 0;
+	font:14px/21px Georgia, "Times New Roman", Times, serif;
+	overflow:hidden;
+}
+.entries-list li {
+	margin:0 0 1px;
+}
+.entries-list li a {
+	color:#222;
+}
+.entries-holder .more {
+	font:14px/16px "gandhi_sansregular";
+}
+.tabs-holder {
+	width:100%;
+	overflow:hidden;
+	padding:29px 0 40px;
+}
+.tabs-holder .column {
+	width:450px;
+}
+.tabs-holder .column:first-child {width:321px;}
+.tabs-holder .tabset {
+	margin:0;
+	font-size:34px;
+}
+.tabs-holder .tabset li {
+	margin-left:13px;
+	margin-right: 0;
+}
+.tabs-holder .tabset li:first-child {margin:0;}
+.tabs-holder .tabset li a {
+	letter-spacing:0;
+}
+.tabs-holder .title {
+	display:block;
+	color:#004a88;
+	font:26px/28px "betonef-demiboldregular";
+	margin:0 0 2px;
+}
+.tabs-holder .column.inactive .title {
+	color:#7f91a0;
+}
+.columns-area {
+	overflow:hidden;
+}
+.columns-area ul{
+	float:left;
+	width:234px;
+	margin:0;
+}
+.content-list {
+	list-style:none;
+	margin:0 0 28px;
+	padding:20px 0 0;
+	font-size:18px;
+	line-height:20px;
+	overflow:hidden;
+}
+.content-list li {
+	margin:0 12px 14px 0;
+	display:inline-block;
+	vertical-align:top;
+	width:220px;
+}
+.content-list li a {
+	color:#000;
+}
+.content-list li a span {color:#888;}
+.tab-content .content-list h2 {
+	font:19px/21px "gandhi_sansregular";
+	color:#000;
+	margin:0;
+}
+.tab-content .content-list .author {
+	display:block;
+	color:#11004b;
+	font-size:14px;
+	line-height:20px;
+}
+.carousel2 .slide ul .dates {
+	display:block;
+	font-size:12px;
+	line-height:20px;
+	color:#333;
+}
+.carousel2 .slide ul .type {
+	display:block;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+}
+.tab-content .content-list .date {
+	font:italic 13px/20px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+	display:block;
+}
+.tab-content .pagination {
+	list-style:none;
+	margin:0 0 70px;
+	padding:0;
+	text-align:center;
+	font:16px/16px "betonef-boldregular";
+}
+.carousel2 .pagination {margin:0  0 33px;}
+.carousel2.single .pagination {display:none;}
+.tab-content .pagination li {
+	display:inline-block;
+	vertical-align:top;
+	margin:0;
+	padding:0 2px 0 1px;
+}
+.tab-content .pagination li a {
+	float:left;
+	color:#7f91a0;
+}
+.tab-content .pagination li .first {
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -39px 0; 
+	width: 12px; 
+	height: 11px;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin-top:3px;
+}
+.tab-content .pagination li .prev {
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -54px 0; 
+	width: 6px; 
+	height: 11px;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin:3px 8px 0 0;
+}
+.tab-content .pagination li .next {
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -109px 0; 
+	width: 7px; 
+	height: 11px;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin:3px 0 0 5px;
+}
+.pagination li .last {
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat -118px 0; 
+	width: 12px; 
+	height: 11px;
+	text-indent:-9999px;
+	overflow:hidden;
+	margin-top:3px;
+}
+.pagination li.active a {
+	color:#41576a;
+}
+#content {
+	float:left;
+	width:560px;
+	line-height:22px;
+}
+#content p {margin:0 0 22px;}
+.tab-content h1 {
+	color:#333;
+	font:30px/32px "gandhi_sansregular";
+	margin:0 0 24px;
+}
+.tab-content h1.results-heading {
+	color:#434343;
+	font:34px/36px "betonef-demiboldregular";
+	margin:0 0 4px;
+	width:220px;
+	border-top:4px solid #ccc;
+	padding:10px 0 0;
+}
+#content h1 {
+	color:#333;
+	font:30px/32px "gandhi_sansregular";
+	margin:-3px 0 5px;
+	padding:0;
+	border:0;
+}
+#sidebar {
+	float:right;
+	width:220px;
+	padding:0 80px 0 0;
+}
+#sidebar h2 {
+	color:#004a88;
+	font:24px/26px "betonef-demiboldregular";
+	margin:0 0 9px;
+}
+#sidebar ul {
+	list-style:none;
+	margin:0 0 26px;
+	padding:0;
+	font:14px/20px Georgia, "Times New Roman", Times, serif;
+}
+#sidebar ul li {
+	margin:0 0 7px;
+}
+#sidebar ul li a {color:#222;}
+.contact-box {
+	overflow:hidden;
+	line-height:21px;
+	color:#434343;
+	margin:0 0 30px;
+}
+.contact-box .column {
+	float:left;
+	width:323px;
+}
+.contact-box address {
+	font-style:normal;
+}
+.contact-box ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.contact-box ul a {color:#666;}
+.tab-content h2 {
+	color:#004a88;
+	font:26px/28px "betonef-demiboldregular";
+	margin:0 0 18px;
+}
+.carousel2 div.mask {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+.carousel2 div.mask div.slideset {
+	width: 99999px;
+	float: left;
+}
+.carousel2 div.mask div.slide {
+	width: 946px;
+	float: left;
+}
+.carousel2 .slide ul {
+	list-style:none;
+	margin:-2px 0 7px;
+	padding:0;
+	overflow:hidden;
+}
+.carousel2 .slide ul li {
+	margin:0 14px 15px 0;
+	display:inline-block;
+	vertical-align:top;
+	width:220px;
+}
+.carousel2 .slide ul h3 {
+	font:18px/20px "gandhi_sansregular";
+	color:#000;
+	margin:0;
+}
+.carousel2 .slide ul h3 a {
+	color:#000;
+}
+.carousel2 .slide ul .author {
+	display:block;
+	color:#325951;
+	line-height:20px;
+}
+.carousel2 .slide ul .date {
+	display:block;
+	color:#666;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+}
+.text-box {
+/*	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider01.png) no-repeat 50% 100%;*/
+	padding:0 0 28px;
+	overflow:hidden;
+	margin:-17px 0 38px;
+}
+.text-box h2 {
+	color:#004a88;
+	font:26px/28px "betonef-demiboldregular";
+	margin:0 0 10px;
+}
+.text-box header {
+	width:100%;
+	overflow:hidden;
+}
+.text-box .caption {
+	float:right;
+	font:italic 16px/18px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+	padding:10px 0 0;
+}
+.text-box h3 {
+	color:#222;
+	font:italic 18px/22px Georgia, "Times New Roman", Times, serif;
+	margin:0 0 18px;
+}
+.text-box h3 a {
+	color:#222;
+}
+.text-box .text {
+	-moz-column-count:2;
+	-webkit-column-count :2;
+	column-count:2;
+	-webkit-column-gap:24px;
+	-moz-column-gap:24px;
+	column-gap:20px;
+	text-align: justify;
+	line-height: 25px;
+}
+.text-box .text p {margin:0 0 25px;}
+.sort-form {
+	margin:-5px 0 40px;
+}
+.sort-form p {
+	margin:0 0 22px;
+	font-size:18px;
+}
+.sort-form p.error {color:#f00;}
+.sort-form .row {
+	width:100%;
+	margin:0 0 20px;
+}
+.sort-form .row:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+
+.sort-form-note {
+	font: 14px/20px Georgia, "Times New Roman", Times, serif;	
+	color: #454545;
+	display: block;
+	margin: -10px 0 20px 0;
+	max-width: 500px;
+}
+
+
+.sort-form .search-hints {
+	margin: -10px 0 22px 0;
+}
+	.sort-form .search-hints .hints {
+		list-style-type: none;
+		padding: 0;
+		margin: 0;
+		display: none;		
+	}
+	.sort-form .search-hints .hints li.q {
+		font-family: "gandhi_sansbold";
+		line-height: 1.2em;
+	}
+	.sort-form .search-hints .hints li.a {
+		margin-bottom: 20px;
+	}
+	.sort-form .search-hints span {
+		color: #777777;
+		display: block;		
+	}
+		.sort-form .search-hints span a {
+			color: #777777;
+			text-decoration: underline;
+		}
+
+	.sort-form .search-hints span.hints-hide-trigger {
+		display: none;
+	}
+
+	.sort-form .search-hints.active span.hints-show-trigger {
+		display: none;
+	}
+	.sort-form .search-hints.active span.hints-hide-trigger {
+		display: block;
+	}
+
+
+#add-person-form,
+#add-venue-form {
+	display: none;
+}
+
+#add-person-form a.cancel-form,
+#add-venue-form a.cancel-form {
+	margin-left: 15px;
+	color: #434343;
+}
+
+#post-event-form #add-person-form,
+#post-event-form #add-venue-form {
+	display: block;	
+}
+
+
+#add-person-form .inline-form-button,
+#add-venue-form .inline-form-button {
+	background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/ajax-loader.gif');
+	background-repeat: no-repeat;
+	background-position: 50% -1000px;
+	background-size: auto 75%;
+	text-indent: 0;		
+	outline: none;
+}
+
+#add-person-form.form-ready .inline-form-button,
+#add-venue-form.form-ready .inline-form-button {
+	text-indent: -9999px;
+	background-position: 50% 50%;
+}
+
+
+#post-event-form #add-venue-form .err-message {
+	max-width: 472px;
+	line-height: 21px;
+	margin-bottom: 13px;
+	color: #c20023;
+	display: none;
+}
+
+#post-event-form .inline-form {
+	z-index: 15;
+	position: relative;
+	top: 0px;	
+}
+
+#post-event-form .inline-form form {
+	background: #f2f2f2;
+	padding: 5px 0 20px 0;
+	margin-bottom: 20px;
+	z-index: 20;
+	position: relative;
+}
+#post-event-form .inline-form form:before {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/inline-form-arrow.png');
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 42px;
+	height: 42px;
+}
+	#post-event-form .inline-form .row .label {
+		margin-bottom: 0;
+	}
+
+body.postEventPage {
+	padding-top: 40px;
+	width: 100%;
+}
+
+body.postEventPage #main-form {
+	display: block;
+	padding-bottom: 40px;
+}
+body.postEventPage #mobile-message {
+	display: none;
+	padding-bottom: 10px;
+}
+
+
+body.postEventPage #main-form-submit-button {
+	background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/ajax-loader.gif');
+	background-repeat: no-repeat;
+	background-position: 50% -1000px;
+	background-size: auto 75%;
+	text-indent: 0;		
+	outline: none;
+}
+
+body.postEventPage #post-event-form.form-ready #main-form-submit-button {
+	text-indent: -9999px;
+	background-position: 50% 50%;
+}
+
+body.postEventPage #mobile-message p {
+	font: bold 14px/21px Georgia, "Times New Roman", Times, serif;		
+}
+
+body.postEventPage #footer {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body.postEventPage #wrapper {
+	width: 100%;
+	padding: 56px 0 0 0;
+}
+body.postEventPage #wrapper .row {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+body.postEventPage h1.page-heading {
+	width: 220px;
+	border-top: 4px solid #ccc;
+	padding: 8px 0 0;
+	margin: 0 0 8px;
+	color: #3c006a;
+	font: 34px/36px "betonef-demiboldregular";	
+}
+
+body.postEventPage h2.page-subheading {
+	color: #004a88;
+	font: 26px/28px "betonef-demiboldregular";
+	margin: 25px 0 10px 0;
+}
+
+body.postEventPage .userText {
+	margin: 0;
+	font: 16px/26px Georgia, "Times New Roman", Times, serif;	
+}
+	body.postEventPage .userText ul {
+		padding-left: 10px;
+		list-style-position: inside;
+	}
+
+#post-event-form .row {
+	margin:0 0 20px 0;
+}
+	#post-event-form .people-wrapper,
+	#post-event-form .venues-wrapper {
+		margin-top: -10px;
+		margin-bottom: 20px;
+	}
+		#post-event-form .people-wrapper .row,
+		#post-event-form .venues-wrapper .row {
+			margin:0 0 10px 0;
+		}
+
+body.postEventPage.inline-form-visible #main .venues-wrapper > .row:before,
+body.postEventPage.inline-form-visible #main .people-wrapper > .row:before,
+body.postEventPage.inline-form-visible #main > .row:before,
+body.postEventPage.inline-form-visible #main-form > .row:before,
+body.postEventPage.inline-form-visible #post-event-form > .row:before {
+	content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: auto;
+	z-index: 15;
+	background: rgba(255, 255, 255, .7);
+}
+
+
+.input-checkbox {
+	line-height: 20px;
+	white-space: nowrap;
+}
+	.input-checkbox label {
+		display: inline-block;
+		vertical-align: top;
+		cursor: pointer;
+		-webkit-touch-callout: none;
+		-webkit-user-select: none;
+		-khtml-user-select: none;
+		-moz-user-select: none;
+		-ms-user-select: none;
+		user-select: none;		
+
+		width: -webkit-calc(100% - 28px);
+		width: calc(100% - 28px);
+		overflow: hidden;
+		
+		font-size: 16px;
+		line-height: 20px;
+		white-space: normal;
+	}
+
+	.custom-check-wrapper {
+		display: inline-block;
+		width: 20px;
+		height: 20px;
+		position: relative;
+		vertical-align: top;
+		overflow: hidden;
+		margin-right: 8px;
+		cursor: pointer;
+	}
+		.custom-check-wrapper input {
+			position: relative;
+			z-index: 2;
+			opacity: 0;
+			cursor: pointer;			
+		}
+	
+		.custom-check-wrapper:after {
+			content: '';
+			display: block;
+			position: absolute;
+			z-index: 1;			
+			top: 0;
+			left: 0;
+			width: 20px;
+			height: 20px;
+			border: 1px solid #666666;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+			background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/input-checkbox-check.png');
+			background-repeat: no-repeat;
+			background-size: contain;
+			background-position: 50% -100px;
+		}
+		.custom-check-wrapper.active-check:after {
+			background-position: 50% 50%;
+		}
+
+#post-event-form .row:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+#post-event-form #event-reception {
+	overflow: hidden;
+	height: 0;
+	margin-bottom: 0;
+}
+#post-event-form #event-reception.active {
+	height: auto;
+	margin-bottom: 20px;	
+}
+
+#post-event-form .row .input-select {
+	width: 100%;
+}
+
+#post-event-form .row input[type="text"] {
+	border:1px solid #666;
+	display: inline-block;
+	width: 100%;
+	vertical-align: middle;
+	padding:5px 7px;
+	color:#999;
+	font-size:14px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px; 
+	background:#fff;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#post-event-form .row input.dirty,
+#post-event-form .row textarea.dirty {
+	color: #343434;
+}
+
+	#post-event-form .row label {
+		font: 16px/27px "gandhi_sansregular"		
+	}
+	
+	#post-event-form .row .label {
+		font: 18px/28px "gandhi_sansregular";
+		margin-bottom: 10px;
+	}
+
+	#post-event-form .row .label-note {
+		font: 13px/18px Georgia, "Times New Roman", Times, serif;			
+		color: #666666;
+		width: 347px;
+		margin: -10px 0 10px 0;
+	}
+
+	#post-event-form .err .label,
+	#post-event-form .row.err .label span,
+	#post-event-form .cell.err .label span {	
+		color: #c20023;
+	}
+	#post-event-form .row .label span {
+		color: #800118;
+	}
+
+	#post-event-form .row .cell {
+		display: inline-block;
+		width: 105px;
+		margin-right: 28px;
+		vertical-align: top;
+	}
+	#post-event-form .row .cell .time-input,
+	#post-event-form .row .cell .time-period-select {
+		display: block;
+		float: left;
+		width: 49%;
+		margin-right: 1%;
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		vertical-align: top;
+	}
+
+	#post-event-form .input-file-wrapper label {
+		display: block;
+		float: left;		
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		padding-right: 10px;
+		line-height: 28px;
+	}
+	#post-event-form .input-file-wrapper .input-file {
+		width: 110px;
+		display: block;
+		float: left;
+		position: relative;
+		overflow: hidden;
+	}
+		#post-event-form .input-file input {
+			position: absolute;
+			display: block;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			z-index: 5;
+			opacity: 0;
+			cursor: pointer;					
+		}
+		#post-event-form .input-file button {
+			position: relative;
+			z-index: 2;			
+		}
+
+	#post-event-form .inputWithRemove {
+		position: relative;
+	}
+
+	#post-event-form .inputWithRemove a {
+		position: absolute;
+		display: block;
+		right: 2px;
+		top: 1px;
+		bottom: 1px;
+		margin: auto;
+		width: 25px;
+		height: 20px;
+		text-transform: uppercase;
+		text-align: center;
+		font: 16px/23px "gandhi_sansregular";
+		background: #ffffff;
+	}
+	#post-event-form .input-autocomplete {
+		position: relative;
+	}
+/*
+		#post-event-form .input-autocomplete input[type="text"] {
+			margin-right: 17px;
+		}
+*/
+		#post-event-form .input-autocomplete.loading input[type="text"] {
+			background-image: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/ajax-loader.gif');
+			background-repeat: no-repeat;
+			background-position: 99% center;
+			background-size: auto 75%;
+		}
+/*
+		#post-event-form .input-autocomplete.loading button {
+			text-indent: -9999px;
+			background-position: 50% 50%;
+		}
+*/
+		#post-event-form .input-autocomplete .list {
+			position: absolute;
+			left: 0;
+			top: 29px;
+			width: 100%;
+			height: auto;
+			max-height: 350px;
+			overflow: auto;
+			z-index: 10;
+			background: #ffffff;
+			border: 1px solid #666;		
+			border-radius: 4px;		
+		}
+		#post-event-form .input-autocomplete .list ul {
+			list-style-type: none;
+			padding: 0;
+			margin: 0;
+		}
+			#post-event-form .input-autocomplete .list ul li {
+				padding: 0 5px;
+				cursor: pointer;
+			}
+			#post-event-form .input-autocomplete .list ul li:hover {
+				background: #f2f2f2;
+			}
+
+		#post-event-form  textarea {
+			border:1px solid #666;
+			height: 165px;
+			padding:5px 7px;
+			color:#999;
+			font-size:14px;
+			-webkit-border-radius: 4px;
+			border-radius: 4px; 
+			background:#fff;
+			resize: none;
+		}
+
+	#post-event-form button {
+		display:inline-block;
+		width:110px;
+		height:28px;
+		background:#f2f2f2;
+		border:1px solid #666;
+		-webkit-border-radius: 3px;
+		border-radius: 3px;
+		color:#434343;
+		font-size:14px;
+		line-height: 28px;
+		padding:0 0 2px;
+		cursor:pointer; 
+		vertical-align: middle;
+	}
+
+.sort-form .row input[type="text"],
+.icpsignup input[type="text"]{
+	float:left;
+	border:1px solid #666;
+	width:234px;
+	padding:5px 7px;
+	color:#999;
+	font-size:14px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px; 
+	background:#fff;
+}
+.icpsignup input[type="text"]{
+	float:none;
+	margin:10px 0 15px 0;
+}
+.sort-form .row input[type="text"]::-webkit-input-placeholder {
+	color:#999;
+}
+.sort-form .row input[type="text"]:-moz-placeholder {
+	color:#999;
+}
+.sort-form .row input[type="text"]::-moz-placeholder {
+	color:#999;
+	opacity: 1;
+}
+.sort-form .row input[type="text"]:-ms-input-placeholder {
+	color:#999;
+}
+.sort-form .select-holder {
+	width:250px;
+	float:left;
+	position:relative;
+	margin-left:73px;
+}
+.sort-form .select-holder select {width:100% !important;}
+/* hide original element */
+.jcf-hidden {
+	display: block !important;
+	position: absolute !important;
+	left: -9999px !important; /* change to right: -9999px on RTL sites */
+}
+/* custom select styles */
+.select-area {
+	border:1px solid #666;
+	-webkit-border-radius: 4px;
+	border-radius: 4px; 
+	background:#fff;
+	position: relative;
+	overflow: hidden;
+	cursor: default;
+	height: 27px;
+	float: left;
+	color:#222;
+	font-size:14px;
+	line-height:18px;
+	width:100% !important;
+}
+.select-area .center {
+	padding: 5px 8px;
+	float:left;
+}
+.select-disabled {
+	border-color:#ccc;
+	color:#ccc;
+}
+.select-area .select-opener {
+	position: absolute;
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite02.png') no-repeat 0 -46px; 
+	width: 19px; 
+	height: 27px;
+	right: 0px;
+	top: 0;
+	-webkit-border-radius:0 4px 0 0;
+	border-radius: 0 4px 0 0; 
+}
+.select-disabled .select-opener {
+	opacity:0.5;
+}
+.select-options {
+	position: absolute;
+	overflow: hidden;
+	background: #fff;
+	z-index: 666;
+}
+.select-options .drop-holder {
+	border: 1px solid #666;
+	-webkit-border-radius: 4px;
+	border-radius: 4px; 
+	overflow: hidden;
+	height: 1%;
+}
+.select-options ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.select-options ul li {
+	width: 100%;
+	float: left;
+}
+.select-options ul li.default{
+	display:none;
+}
+.select-options ul a {
+	text-decoration: none;
+	padding: 5px 8px;
+	display: block;
+	cursor: default;
+	color: #222;
+	height: 1%;
+}
+.select-options .item-selected a {
+	text-decoration: none;
+	background: #333;
+	color: #fff;
+}
+/* select options optgroup example styles */
+.select-options .optgroup {
+	clear: both;
+}
+.select-options .optgroup strong {
+	display: block;
+	padding: 5px;
+}
+.select-options .optgroup ul a {
+	padding-left: 30px;
+}
+.sort-form input[type="submit"],
+.icpsignup input[type="submit"]{
+	display:block;
+	width:110px;
+	height:29px;
+	background:#f2f2f2;
+	border:1px solid #666;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	color:#434343;
+	font-size:14px;
+	padding:0 0 2px;
+	cursor:pointer; 
+}
+.article {
+	padding:0 90px 40px 233px;
+	position:relative;
+}
+.article:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+.article p {text-align:justify;}
+.article p em {font-style: italic;}
+.single-post {
+	margin:-5px 0 0;
+	padding:0 90px 60px 235px;
+}
+.article .aside {
+	position:absolute;
+	top:0;
+	left:0;
+	width:200px;
+	padding:5px 0 0;
+	min-height:680px;
+}
+.article .aside .share-box {
+	width:100%;
+	overflow:hidden;
+	margin:0 0 145px;
+}
+.slideshow-link {
+	display:inline-block;
+	vertical-align:top;
+	border-bottom:4px solid #bababa;
+	color:#555;
+	font:20px/22px "betonef-demiboldregular";
+	padding:0 0 3px;
+	margin:0 0 100px;
+}
+#column-description {
+	padding-bottom: 7px;
+/*	border-bottom:1px solid #999;
+	margin-bottom: 35px;*/
+}
+hr {
+	border: 0;
+	color: #999;
+	background-color: #999;
+	height: 1px;
+}
+.column-description-divider {
+	width: 100px;
+	margin-bottom: 36px;
+}
+.article h2 {
+	color:#004a88;
+	font:30px/32px "betonef-demiboldregular";
+	margin:0 0 2px;
+}
+.article h2 a {
+	color:#004a88;
+}
+.article-feature h2,
+.article-feature h2 a {
+/*	color:#00307f;*/
+}
+.article-review h2,
+.article-review h2 a {
+/*	color:#00644b;*/
+}
+
+.article-column h2,
+.article-column h2 a {
+/*	color:#3c006a;*/
+}
+.article-event h2 {
+/*	color:#557000;*/
+	margin:0 0 5px;
+}
+.article h1 {
+	margin:0 0 12px;
+	font:48px/49px "proxima_nova_rgregular";
+	color:#000;
+	position:relative;
+}
+.article-event h1 {
+	margin:0 70px 10px 0;
+}
+.article h1 .post {
+	position:absolute;
+	top:50%;
+	left:-233px;
+	color:#800118;
+	font:italic 20px/22px Georgia, "Times New Roman", Times, serif;
+	margin:-10px 0 0;
+}
+.article p.p-view {
+	font-weight: bold;
+}
+.article .author {
+	display:block;
+	color:#222;
+	font:italic 16px/18px Georgia, "Times New Roman", Times, serif;
+	margin:0 0 13px;
+}
+.article .author a {
+	color:#222;
+}
+.article-event .author {
+	margin:0 0 23px;
+}
+.article .date {
+	display:block;
+	color:#666;
+	margin:0 0 21px;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+}
+.article p {margin:0 0 26px;}
+/*.single-post p {margin:0 0 22px;}*/
+.article .text {
+	position:relative;
+}
+.article .initials-holder {
+	position:relative;
+}
+.article .initials {
+	position:absolute;
+	left:-40px;
+	color:#343434;
+}
+.article .pullquote-holder {
+	position:relative;
+}
+.article blockquote {
+	margin:37px;
+}
+.article .pullquote {
+	font:16px/26px "proxima_novalight", sans-serif;
+	position:absolute;
+	top:0px;
+	line-height: 27px;
+	left:-233px;
+	width:200px;
+	color:#00307f;
+	text-align:left;
+	padding:0;
+	margin:0;
+}
+.article-column .pullquote {color:#3c006a;}
+div.media-carousel {
+	position: relative;
+}
+div.media-carousel .btn-prev,
+div.media-carousel .btn-next  {
+	position:absolute;
+	top:45%;
+	left:-41px;
+	background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/btn-slideshow.png') no-repeat 0 0; 
+	width: 18px; 
+	height: 30px;
+	margin:-48px 0 0;
+	text-indent:-9999px;
+	overflow:hidden;
+}
+div.media-carousel .btn-next {
+	left:auto;
+	right:-41px;
+	background-position:-32px 0;
+}
+div.media-carousel div.mask {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+div.media-carousel div.mask div.slideset {
+	width: 99999px;
+	float: left;
+}
+div.media-carousel div.mask div.slide {
+	width: 100%;
+	float: left;
+	background:#fff;
+}
+div.media-carousel div.mask div.slide  img {
+	display:block;
+	margin:0 auto 25px;
+	max-width:100%;
+	max-height:497px;
+}
+.media-carousel .pagination {
+	position:absolute;
+	top:18px;
+	left:10px;
+	padding:0;
+}
+.media-carousel .pagination ul {
+	list-style:none;
+	margin:0;
+	padding:0;
+}
+.media-carousel .pagination ul li {
+	padding:0;
+	margin-left:11px;
+}
+.media-carousel .pagination ul li:after {
+	width:0;
+	height:0;
+}
+.media-carousel .pagination ul li a {
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+	background:rgba(185,185,185,.8);
+	border:0;
+	width:13px;
+	height:13px;
+	-webkit-box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3); 
+}
+.media-carousel .pagination ul li a:hover,
+.media-carousel .pagination ul li.active a {
+	background:#eee;
+}
+.article .media .holder,
+.article .visual-wide .holder {
+	margin:0 0 10px;
+	padding:5px 0 0;
+	margin:0 0 25px;
+}
+.video-holder{
+	position: relative;
+}
+.video-holder img{
+	height: auto;
+	width: 100%;
+	vertical-align: top;
+}
+.article .media img {
+	display:block;
+}
+.article .media .title,
+.article .visual .title,
+.article .visual-wide .title {
+	display:block;
+	text-align:center;
+	font:14px/20px Georgia, "Times New Roman", Times, serif;
+	color:#222;
+	margin:0 auto 25px;
+/* 	width:500px; */
+}
+.visual-wide {
+	margin:0 0 25px;
+}
+.media {
+	margin:0 0 25px;
+}
+.article ul {
+	list-style:none;
+	margin:-10px 0 30px;
+	padding:0 37px 0 22px;
+	word-spacing:2px;
+	line-height:23px;
+}
+.article ul li {
+	position:relative;
+	padding:0 0 2px 15px;
+}
+.article ul li:after {
+	content:"";
+	position:absolute;
+	left:0;
+	top:9px;
+	width:4px;
+	height:4px;
+	background:#656565;
+}
+.article h3 {
+/*	margin:-10px 0 10px;*/
+	margin:0;
+	color:#000;
+	font:22px/26px "gandhi_sansregular";
+}
+.page-about .article h3 {
+
+}
+.article .visual img {
+	display:block;
+	margin:0 auto 25px;
+	max-height:497px;
+	width:auto;
+	max-width:100%;
+}
+.article .visual-wide img {
+	display:block;
+	width:100%;
+	height:auto;
+	margin:0 0 25px;
+}
+.article .visual {
+	margin:0 0 25px;
+	position:relative;
+	padding:3px 0 0;
+}
+.article p img {
+	margin:0 auto;
+	display:block;
+}
+.box {
+	border-top:4px solid #666;
+	width:100%;
+	overflow:hidden;
+	padding:10px 0;
+	min-height:75px;
+}
+.box .slide img {
+	display:block;
+	width:100%;
+	height:auto;
+}
+.box h2 {
+	float:left;
+	width:200px;
+	font:24px/26px "betonef-demiboldregular";
+	margin:0;
+	color:#004a88;
+}
+.box h2  a {color:#555;}
+.box h2  a em {
+	display:none;
+	font-style:normal;
+}
+.box.active h2  a em {
+	display:block;
+	display:inline;
+}
+.box.active h2  a span {display:none;}
+.box .text {
+	overflow:hidden;
+	padding-left:36px;
+}
+.box ol {
+	overflow:hidden;
+	counter-reset:item;
+	list-style:none;
+	margin:0 0 36px -19px;
+	padding:1px 90px 0 0;
+	font:13px/22px Georgia, "Times New Roman", Times, serif;
+}
+.box ol li {
+	padding:0 0 15px 19px;
+	margin:0 0 -1px;
+	list-style-position:outside;
+	height:1%;
+	vertical-align:top;
+}
+.box ol li:before {
+	float:left;
+	width:19px;
+	margin:0 0 0 -19px;
+	content: counters(item, ".") "."; 
+	counter-increment: item;
+}
+.posts-list {
+	list-style:none;
+	margin:0 0 54px;
+	padding:5px 0 0;
+	overflow:hidden;
+}
+.posts-list li {
+	float:left;
+	margin-left:20px;
+	width:194px;
+}
+.posts-list li:first-child {margin:0;}
+.posts-list .visual {
+	display:block;
+	margin:0 0 10px;
+}
+.posts-list .visual img {
+	display:block;
+	width:100%;
+	height:auto;
+}
+.posts-list h3 {
+	margin:0;
+	color:#000;
+	font:18px/19px "proxima_nova_rgregular";
+}
+.posts-list h3 a {color:#000;}
+.posts-list .author {
+	display:block;
+	font:italic 13px/22px Georgia, "Times New Roman", Times, serif;
+	color:#666;
+}
+.gallery-info {
+	position:absolute;
+	top:7px;
+	left:-233px;
+	width:200px;
+	overflow-wrap: break-word
+}
+
+.gallery-info:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+
+.aside .gallery-info {
+	position:static;
+	top:auto;
+	left:auto;
+}
+.gallery-info h2 {
+	color:#004a88;
+	font:24px/26px "betonef-demiboldregular";
+	margin:0 0 8px;
+}
+.gallery-info .view-heading {
+	margin:-40px 0 8px;
+}
+.gallery-info h3 {
+	font:22px/26px "gandhi_sansregular" !important;
+	margin:0 0 5px;
+	color:#000 !important;
+}
+.gallery-info .date {
+	display:block;
+	font:13px/16px "gandhi_sansregular";
+	color:#333;
+	margin:0 0 7px;
+}
+.aside .gallery-info .date {margin:0 0 4px;}
+.gallery-info .group {
+	display:block;
+	color:#666;
+	font:italic 14px/19px Georgia, "Times New Roman", Times, serif;
+}
+.gallery-info ul {
+	list-style:none;
+	margin:0 0 10px;
+	padding:0;
+	font:13px/18px "gandhi_sansregular";
+	color:#333;
+}
+.gallery-info ul li {
+	padding:0;
+}
+.gallery-info ul li:after {
+	width:0;
+	height:0;
+}
+.gallery-info ul a {color:#333;}
+.gallery-info address {
+	font:13px/18px "gandhi_sansregular";
+	color:#333;
+	margin:0 0 2px;
+}
+.gallery-info address span {display:block;}
+.gallery-info .map {
+	color:#666;
+	font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+}
+.open-close .slide {
+	display:none;
+}
+.article .read-more {
+	position:absolute;
+	top:0;
+	right:0;
+	font:18px/22px "gandhi_sansregular";
+	word-spacing:-1px;
+	margin:6px 2px 0 0;
+}
+.article header {
+	position:relative;
+	overflow:hidden;
+}
+.article header .pick-icon {
+	background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/ico03.png) no-repeat;
+	width: 58px;
+	height: 31px;
+	text-indent:-9999px;
+	overflow:hidden;
+	position:absolute;
+	right:3px;
+	top:46px;
+}
+.article-event {
+	margin:35px 0 0;
+}
+
+.article .img-list {
+	list-style:none;
+	margin:0;
+	padding:15px 20px 9px 0;
+	text-align:center;
+}
+.article .img-list li {
+	display:inline-block;
+	vertical-align:top;
+	margin:0 -3px 0 0;
+	padding:0 16px;
+	width:120px;
+}
+.article .img-list li:after {
+	width:0;
+	height:0;
+}
+.article .img-list li img {
+	display:block;
+	width:100%;
+	height:auto;
+	margin:0;
+}
+.article section {
+	position:relative;
+	margin:0 0 47px;
+}
+.article section h1 {
+	font:34px/36px "betonef-demiboldregular";
+	margin:0 0 28px;
+}
+.article section .back {
+	position:absolute;
+	bottom:4px;
+	left:-236px;
+	color:#666;
+	font:italic 15px/18px Georgia, "Times New Roman", Times, serif;
+	text-decoration:underline;
+}
+.article section .back:hover {text-decoration:none;}
+.aside h3 {
+	color:#004a88;
+	font:24px/26px "betonef-demiboldregular";
+	margin:0 0 10px;
+}
+.single-post .aside h3 {
+	margin:-3px 0 18px;
+}
+.aside .menu {
+	list-style:none;
+	margin:0;
+	padding:0;
+	font:15px/18px Georgia, "Times New Roman", Times, serif;
+	width:140px;
+}
+.aside .menu li {
+	padding:0 0 11px;
+}
+.aside .menu li:after {
+	width:0;
+	height:0;
+}
+.aside .menu li a {color:#333;}
+
+.btn-donate {
+	display:block;
+	background:#800118;
+	border:1px solid #666;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	margin: 0 auto 26px;
+	max-width:168px;
+	text-align:center;
+	padding: 11px 15px;
+	color:#fff;
+	font:23px/26px "gandhi_sansregular";
+}
+.btn-donate:hover {
+	background:#fff;
+	color:#800118;
+	text-decoration:none;
+}
+
+
+.additional-events {
+	list-style-type: none;
+	padding: 0;
+	margin:0;
+}
+	.additional-events li {
+		margin-bottom: 20px;
+	}
+		.additional-events li h4 {
+			color:#222222;
+			font-weight: normal;
+			margin: 0 0 5px 0;
+		}
+
+		.additional-events li span {
+			display: block;
+			margin-bottom: 3px;
+		}
+		.additional-events li span.venue {
+			color: #444444;
+		}
+		.additional-events li span.dates {
+			color: #333333;
+		}
+		.additional-events li span.category {
+			color:#666;
+		}
+
+.event-related-events {
+	padding:15px 90px 40px 233px;
+	position:relative;
+	border-top: 4px solid #666666;
+}
+.event-related-events:after {
+	content:"";
+	display:block;
+	clear:both;
+}
+
+.event-related-events .aside {
+	position:absolute;
+	top:0;
+	left:0;
+	width:200px;
+	padding:15px 0 0;
+}
+
+.event-related-events h2 {
+	color: #004a88;
+	font: 24px/26px "betonef-demiboldregular";
+	margin:0 0 5px;
+}
+
+
+
+.event-related-events div.results-list {
+	position: relative;
+	font-size: 0;
+	line-height: 0;
+	margin-top: 10px;
+}
+
+	.event-related-events div.results-list div.list-item {
+		display: inline-block;
+		vertical-align: top;
+		color:#444;
+		font-size:14px;
+		line-height:16px;
+
+		height:auto;
+		position:relative;
+	}
+
+		.event-related-events div.results-list div.list-item .visual {
+			display:block;
+			margin:0 0 9px;
+		}
+		.event-related-events div.results-list div.list-item .visual img {
+			display:block;
+			width:100%;
+			height:auto;
+		}
+		.event-related-events div.results-list div.list-item .text {
+			overflow:hidden;
+		}
+		.event-related-events div.results-list div.list-item .text h4 {
+			font:19px/21px "gandhi_sansregular";
+			color:#000;
+			margin:0 0 1px;
+		}
+			.event-related-events div.results-list div.list-item .text h4 a {
+				color:#000;
+			}
+			.event-related-events div.results-list div.list-item .text h4 a span {
+				color:#ababab;
+			}
+		.event-related-events div.results-list div.list-item .text p {
+			margin:0 0 2px;
+		}
+		.event-related-events div.results-list div.list-item .text .date {
+			font:12px/16px "gandhi_sansregular";
+			color:#333;
+			display:block;
+			margin:0 0 2px;
+		}
+		.event-related-events div.results-list div.list-item .text .type,
+		.event-related-events div.results-list div.list-item .text .author {
+			display:block;
+			font:italic 13px/16px Georgia, "Times New Roman", Times, serif;
+			color:#666;
+		}
+		.event-related-events div.results-list div.list-item .text .ico {
+			float:right;
+			margin:3px 0 0 10px;
+		}
+
+.donate-link {
+	color: #1DB8AF !important;
+}
+
+
+
+
+
+/* j28 */
+
+.form-event {
+	margin-top: 22px;
+}
+
+/* j28 */
+
+.fluid-width-video-wrapper iframe, .fluid-width-video-wrapper object, .fluid-width-video-wrapper embed {
+	position:absolute !important;
+}
+.alignment-box {
+	display:block;
+	position:relative;
+}
+@media only screen and (min-width:768px) and (max-width:1023px) {
+	body{
+		font:18px/27px "gandhi_sansregular";
+	}
+	.slideshow .slide.slide-text img {
+		width:100%;
+		height:auto;
+	}
+	.slideshow .slide.slide-text .text {
+		padding: 23px 10px 0  32px;
+	}
+	.slideshow .slide.slide-text .twocolumns {
+		margin:0 -25px 0 0;
+	}
+	.slideshow .slide.slide-text .twocolumns .column {
+		padding-right:25px;
+	}
+	.slideshow .slide.slide-text .text p {margin: 0 0 13px;}
+	.slideshow .slide.slide-text .text .more {margin: 0 0 18px;}
+	.article .visual img {
+		max-height:623px;
+	}
+	.article .media .title, 
+	.article .visual .title, 
+	.article .visual-wide .title {
+		font-size:14px;
+		line-height:21px;
+	}
+	.gallery-info .view-heading {
+		margin:-34px 0 8px;
+		font-size:21px;
+	}
+	.gallery-info h3 {
+		line-height:24px !important;
+	}
+	.gallery-info .date {
+		margin:0 0 7px;
+	}
+	#nav .row {
+		width:768px;
+	}
+	#nav .opener {
+		margin-left:18px;
+	}
+	#header .search {
+		margin-right:18px;
+	}
+	#nav .slide > ul {
+		width:768px;
+		margin:0 auto;
+	}
+	#nav .slide > ul > li {
+		padding:0 0 0 30px;
+	}
+	#nav .slide > ul > li.publication {width:144px;}
+	#nav .slide > ul > li.archive {width:113px;}
+	#nav .slide > ul > li.events {width:122px;}
+	#nav .slide > ul > li.about {width:118px;}
+	#nav .slide > ul > li.support {width:89px;}
+	.slideshow {
+		margin:0 -32px;
+	}
+	.slide-heading {
+		top:23px;
+		padding:12px 32px 22px;
+	}
+	.slide-heading .title {
+		font-size:24px;
+	}
+	.slide-heading h1 {
+		font-size:40px;
+	}
+	.slideshow .text {
+		bottom:23px;
+		padding:9px 32px 16px;
+	}
+	.slideshow .text p {width:525px;}
+	.pagination ul {padding:0 32px;}
+	.slide-article .slide-heading {bottom:34px;}
+	.slide-article .more {font-size:15px;}
+	.tabs-holder .column:first-child {width:242px;}
+	.page-heading {
+		margin:0 0 25px;
+	}
+	.page-heading .holder {
+		padding:24px 0 23px;
+	}
+	.carousel-holder,
+	.twocolumns {background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider03.png) no-repeat;}
+	.content-list {
+		padding:18px 0 0 0;
+		margin:0 -20px 0 0; 
+	}
+	.content-list li {
+		margin:0 17px 10px 0;
+	}
+	.tab-content .content-list .author {
+		font-size:15px;
+	}
+	.tab-content .content-list .date {
+		margin:-2px 0 0;
+		font-size:14px;
+	}
+	#wrapper {
+		width:704px;
+		padding:56px 32px 0;
+	}
+	.intro {
+		margin: 0 -32px 35px;
+	}
+	.intro .solid-color {
+		height: 576px;
+	}
+	.intro .slide-heading {
+		bottom:33px;
+		padding:8px 32px 25px;
+	}
+	.intro .slide-heading .title {
+		font-size:24px;
+		line-height:26px;
+		margin:0;
+	}
+	.intro .slide-heading h1 {
+		font-size:40px;
+		line-height:44px;
+		margin:0;
+	}
+	.intro.issue .slide-heading {
+		top:auto;
+		bottom:45px;
+		padding-bottom:22px;
+	}
+	.intro.issue .slide-heading h1 {
+		font-size:32px;
+	}
+	.intro.issue .slide-heading .title {
+		font-size:32px;
+	}
+	.text-box {
+		padding:0 0 28px;
+		margin:-17px 0 30px;
+	}
+	.text-box h2 {
+		font-size:24px;
+		line-height:26px;
+	}
+	.text-box .caption {
+		font-size:15px;
+		line-height:18px;
+		padding:5px 3px 0 0;
+	}
+	.text-box h3 {
+		font-size:16px;
+		line-height:16px;
+		margin:0 0 20px;
+	}
+	.posts-holder .post {
+		font-size: 16px;
+		line-height: 21px;
+	}
+	.post .type {
+		font:15px/18px "gandhi_sansregular";
+	}
+	.post h4 {
+		font-size: 19px;
+		line-height: 21px;
+		margin-bottom: 4px;
+	}
+	.posts-holder h2 {
+		padding:11px 0 0;
+		font-size:32px;
+	}
+	.posts-holder h2.features-heading {
+		font-size:32px;
+		padding:6px 0 0;
+		margin:0 0 15px;
+	}
+	.posts-holder h3 {font-size:24px;}
+	.posts-holder {
+		margin:0  0 31px;
+	}
+	.advertisemet-box {
+		padding:20px 0 20px 8px;
+	}
+	.advertisemet-box .title {margin:0 0 10px;}
+	.carousel-holder {
+		padding:12px 0 22px;
+	}
+	.twocolumns {
+		padding:46px 0 90px;
+	}
+	.thumbs-list {
+		font-size:16px;
+		line-height:20px;
+	}
+	.thumbs-list li {margin:0 0 13px;}
+	.col-carousel {
+		padding:24px 0 25px;
+	}
+	.carousel-holder h3 {
+		font-size:32px;
+		margin:0 0 15px;
+	}
+	.carousel-holder header .more {
+
+	}
+	.twocolumns p {margin:0 0 14px;}
+	.content-holder .post {
+		line-height: 27px;
+	}
+	.content-holder .post h2 {
+		font-size:25px;
+		line-height:25px;
+	}
+	.content-holder h3 {
+		font-size:22px;
+		margin:0 0 12px;
+	}
+	.content-holder .post .author {
+		margin: -4px 0 10px;
+	}
+	.post .author {
+		font-size: 14px;
+		line-height: 17px;
+		margin-bottom: 4px;
+	}
+	.entries-list  {
+		padding:0;
+		word-spacing:-1px;
+	}
+	.entries-list li {
+		margin:0 0 9px;
+	}
+	#sidebar {
+		padding:0;
+	}
+	#sidebar h2 {
+		margin:0 0 13px;
+	}
+	#content {
+		width:406px;
+		line-height: 27px;
+	}
+	#content h1 {
+		margin:-3px 0 10px;
+	}
+	.contact-box .column {
+		width:242px;
+	}
+	.sort-form .row input[type="text"] {width:203px;}
+	.article {
+		padding:0 46px 0 164px;
+	}
+	.article.single-post {
+		padding:5px 48px 0 188px;
+	}
+	.article section {
+		margin:0 0 40px;
+	}
+	.article .img-list {
+		padding:0 7px 0 0;
+	}
+	.article .img-list li {
+		padding:0 14px 0 16px;
+	}
+	.article .pullquote {
+		left:-185px;
+		font-size:18px;
+		line-height:27px;
+		width:155px;
+	}
+	.posts-list li {
+		width:154px;
+		margin-left:15px;
+	}
+	.posts-list li:first-child {margin:0;}
+	.box h2 {
+		width:142px;
+		margin:0 -15px 0 0;
+		font-size:22px;
+		white-space:nowrap;
+	}
+	.posts-list h3 {
+		font-size:16px;
+		line-height:17px;
+	}
+	.posts-list .visual {margin:0 0 13px;}
+	.box ol {
+		margin:0 0 20px -19px;
+		padding-right:46px;
+	}
+	.gallery-info {
+		left:-165px;
+		width:150px;
+		overflow-wrap: break-word;
+	}
+	.gallery-info ul {
+		font-size: 14px;
+	}
+	.gallery-info address span {
+		font-size: 14px;
+	}
+	.gallery-info .date {
+		font-size: 14px;		
+	}
+	.article h1 .post {
+		left:-188px;
+	}
+	.article h3 {
+		margin:-6px 0 10px;
+/*		margin:0;*/
+	}
+	.aside h3 {
+		margin:0 0 10px;
+	}
+/*
+	.posts-holder .holder {
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/divider02.png) no-repeat 0 100%;
+		padding:0 0 18px;
+	}
+*/
+	.adv-list li {
+		padding:0 29px 20px 0;
+		width:150px;
+	}
+	.adv-list li img {
+		width:100%;
+		height:auto;
+	}
+	.article h1 {
+		font:44px/44px "proxima_nova_rgregular";
+	}
+	.article h2 {
+		margin:0 0 5px;
+	}
+	.article .aside .share-box {
+		margin:0 0 30px;
+		width: 120px;
+	}
+		.article .aside .share-box a {
+			margin-bottom: 4px;			
+		}
+			
+	.article .media .title, .article .visual .title,
+	.article .visual-wide .title {
+		font-size:14px;
+		line-height:21px;
+		margin:25px auto;
+		width:auto;
+	}
+	div.carousel div.mask div.slide {
+		width:164px;
+		margin:0 16px 0 0;
+	}
+	.carousel .date {font-size:13px;}
+	.carousel .visual {
+		margin:0 0 6px;
+	}
+	.carousel h4 {
+		font-size:20px;
+		line-height:22px;
+	}
+	.entries-holder {
+		width:165px;
+	}
+	.content-holder .post {width:524px;}
+	.art-heading {
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/bg-art-heading2.png) no-repeat;
+		width: 687px;
+		height: 21px;
+		margin:0 auto;
+	}
+	.twocolumns .column {
+		width:341px;
+	}
+	.twocolumns .column:first-child {margin-left:22px;}
+	.entries-list {
+		font-size:14px;
+		line-height:18px;
+	}
+	.article section .back {
+		left:-189px;
+	}
+	.article .img-list li {
+		width:120px;
+	}
+	.tabs-holder .tabset {
+		font-size:32px;
+	}
+	.tabs-holder .title {
+		font-size:24px;
+	}
+	.tabs-holder {
+		padding:29px 0 16px;
+	}
+	.content-holder {
+		padding:25px 0 56px;
+	}
+	.content-holder.tab-content {
+		padding:4px 0 61px;
+	}
+	#content p {margin:0 0 26px;}
+	.tab-content h1 {
+		padding:18px 0 0;
+		margin:0 0 19px;
+	}
+	.carousel2 div.mask div.slideset {margin:0 0 15px;}
+	.carousel2 .slide ul {margin:-2px 0 0;}
+	.carousel2 .pagination {margin:-5px 0 32px;}
+	.carousel2 .slide ul .date {
+		font-size:14px;
+	}
+	.carousel2 .slide ul .dates {
+		font-size:13px;
+	}
+	.sort-form {
+		margin:0 0 48px;
+		padding:20px 0 0;
+	}
+	.sort-form .select-holder {
+		width:218px;
+		margin-left:22px;
+	}
+	.tab-content h1.results-heading {
+		font-size:32px;
+		padding:7px 0 0;
+		margin:0;
+	}
+	.posts-list {margin:0 0 93px;}
+	#footer {
+		margin:0 -32px;
+		padding:6px 32px 69px;
+	}
+	.single-post .aside h3 {
+		font-size:20px;
+		margin:0 0 16px;
+		padding:3px 0 0;
+	}
+	.article section h1 {
+		font-size:32px;
+	}
+	.carousel2 div.mask div.slide {
+		width:704px;
+	}
+	.carousel2 .slide ul li {
+		width:220px;
+		margin:0 11px 10px 0;
+	}
+
+	#post-event-form .inputWithRemove,
+	#post-event-form .input-autocomplete .list,
+	#post-event-form .row .input-select,
+	#post-event-form .row input[type="text"] {
+		max-width: 350px;
+	}
+
+	#post-event-form .input-file-wrapper label {
+		max-width: 230px;
+	}
+/*
+	#post-event-form .input-autocomplete input[type="text"] {
+		width: 223px;		
+	}
+*/
+	#post-event-form textarea {
+		width: 350px;		
+	}
+	body.postEventPage #footer {
+		max-width: 704px;		
+	}
+	body.postEventPage #wrapper .row {
+		max-width: 768px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	
+	#post-event-form .inline-form form:before {
+		margin: -21px 0 0 -225px;
+	}	
+
+	body.searchEventsPage #wrapper {
+		width: 704px;
+		padding: 99px 0 0 0;
+	}
+		body.searchEventsPage h2 {
+			width: 344px;
+			font-size: 32px;
+			line-height: 34px;
+		}
+
+		section.large-posts-holder .posts {
+			margin-left: -15px;
+		}
+			section.large-posts-holder .posts .large-post {
+				width: 344px;
+				height: 177px;
+				margin-left: 15px;
+			}
+			section.large-posts-holder .posts .large-post .text {
+				padding: 15px 18px;
+			}
+			
+		section.events-search-form-holder .column {
+			width: 176px;
+		}			
+
+	body.searchEventsPage div.sections-divider {
+		font-size: 23px;
+		line-height: 34px;
+	}
+	
+	section.events-keywords-search-form-holder .row input[type="text"] {
+		width: 220px;
+	}
+	section.events-keywords-search-form-holder .row input[type="submit"] {
+		margin-left: 15px;
+	}
+	
+	section.events-results-holder div.results-list div.list-item {
+		width: 164px;
+		margin:0 15px 20px 0;
+	}
+	
+	section.events-results-holder div.results-list div.list-item:nth-child(4n) {
+		margin-right: 0;
+	}	
+	
+	section.events-results-holder .pagination {
+		font-size: 18px;
+		line-height: 18px;
+	}
+
+	section.events-results-holder .pagination li {
+		padding:0 5px 0 4px;
+	}
+	
+	section.events-search-form-holder .column .select-holder {
+		width: 172px;
+	}
+	
+	.event-related-events {
+		padding:15px 46px 0 164px;
+	}
+
+	.event-related-events div.results-list div.list-item {
+		width: 149px;
+		margin:0 15px 20px 0;
+	}
+	
+	.event-related-events div.results-list div.list-item:nth-child(3n) {
+		margin-right: 0;
+	}	
+
+	.sort-form-note {
+		margin: -20px 0 40px 0;		
+	}
+
+	.tabs-holder {
+		margin-top: -20px;
+	}
+
+	.tabs-holder .column {
+		margin-top: 20px;
+	}
+
+	.additional-events li h4 {
+		font:21px/24px "gandhi_sansregular";
+	}
+	.additional-events li span.venue {
+		font: 16px/22px "gandhi_sansregular";
+	}
+	.additional-events li span.dates {
+		font: 14px/18px "gandhi_sansregular";
+	}
+	.additional-events li span.category {
+		font:italic 15px/18px Georgia, "Times New Roman", Times, serif;
+	}
+
+	.intro .solid-color {
+		height: 432px;
+	}
+
+
+
+} /* End Tablet */
+
+@media only screen and  (min-width:1024px) {
+
+	#nav .slide .drop {
+		left:auto !important;
+		top:auto !important;
+		position:static !important;
+		width:auto !important;
+	}
+
+	
+	body.postEventPage #footer,
+	body.postEventPage #wrapper .row {
+		max-width: 946px;
+	}
+
+	#post-event-form .inputWithRemove,
+	#post-event-form .input-autocomplete .list,
+	#post-event-form .row .input-select,
+	#post-event-form .row input[type="text"] {
+		max-width: 472px;
+	}
+
+	#post-event-form .input-file-wrapper label {
+		max-width: 350px;
+	}
+/*
+	#post-event-form .inputWithRemove,
+	#post-event-form .input-autocomplete input[type="text"] {
+		width: 347px;		
+	}
+*/
+	#post-event-form textarea {
+		width: 458px;		
+	}	
+	
+	#post-event-form .inline-form form:before {
+		margin: -21px 0 0 -310px;
+	}	
+
+	
+
+	body.searchEventsPage #wrapper {
+		width: 1024px;
+		padding: 96px 0 0 0;
+	}
+		body.searchEventsPage h2 {
+			width:500px;
+			font-size: 34px;
+			line-height: 36px;
+		}
+
+		section.large-posts-holder .posts {
+			margin-left: -24px;
+		}		
+			section.large-posts-holder .posts .large-post {
+				width: 500px;
+				height: 240px;
+				margin-left: 24px;
+			}		
+			section.large-posts-holder .posts .large-post .text {
+				padding: 20px 25px;
+			}
+
+		section.events-search-form-holder .column {
+			width: 212px;
+		}
+		
+	body.searchEventsPage div.sections-divider {
+		font-size: 32px;
+		line-height: 34px;
+	}
+	
+	section.events-keywords-search-form-holder .row input[type="text"] {
+		width: 250px;
+	}
+	section.events-keywords-search-form-holder .row input[type="submit"] {
+		margin-left: 40px;
+	}	
+	
+	
+	section.events-results-holder div.results-list div.list-item {
+		width: 173px;
+		margin:0 39px 40px 0;
+	}
+	
+	section.events-results-holder div.results-list div.list-item:nth-child(5n) {
+		margin-right: 0;
+	}	
+
+	section.events-results-holder .pagination {
+		font-size: 16px;
+		line-height: 16px;
+	}
+	
+	section.events-results-holder .pagination li {
+		padding:0 2px 0 1px;
+	}
+	
+		section.events-search-form-holder .column .select-holder {
+			width: 172px;
+		}
+	
+
+	.event-related-events div.results-list div.list-item {
+		width: 197px;
+		margin:0 15px 30px 0;
+	}
+	
+	.event-related-events div.results-list div.list-item:nth-child(3n) {
+		margin-right: 0;
+	}	
+
+	.tabs-holder .column {
+		float:left;
+	}
+
+	.additional-events li h4 {
+		font:23px/26px "gandhi_sansregular";
+	}
+	.additional-events li span.venue {
+		font: 18px/22px "gandhi_sansregular";
+	}
+	.additional-events li span.dates {
+		font: 15px/18px "gandhi_sansregular";
+	}
+	.additional-events li span.category {
+		font:italic 16px/18px Georgia, "Times New Roman", Times, serif;
+	}
+	.intro .solid-color {
+		height: 576px;
+	}
+
+} /* End Desktop */
+
+@media only screen and  (max-width:767px) {
+
+	body {
+		min-width:320px;
+		font:18px/26px "gandhi_sansregular";
+	}
+	.gallery-info .view-heading {
+		margin:0 0 2px;
+	}
+	.slideshow .slide.slide-text {display:none !important;}
+	.pagination ul .info {display:none;}
+	.article .media {
+		padding:0 12px;
+	}
+	div.media-carousel {
+		padding:0 12px;
+	}
+	div.media-carousel .btn-prev,
+	div.media-carousel .btn-next  {
+		position:absolute;
+		top:50%;
+		left:-10px;
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/btn-slideshow.png') no-repeat 0 -30px; 
+		width: 13px; 
+		height: 22px;
+		margin:-48px 0 0;
+		text-indent:-9999px;
+		overflow:hidden;
+	}
+	div.media-carousel .btn-next {
+		left:auto;
+		right:-10px;
+		background-position:-15px -30px;
+	}
+	.article  p {text-align:left;}
+	#header {
+		height:44px;
+	}
+	.intro {
+		margin:0 -12px 27px;
+	}
+	.article .text {
+		padding-right:37px;
+	}
+	#nav .row {
+		max-width:767px;
+		width:auto;
+		height:48px;
+	}
+	#header .logo {
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/logo02.png) no-repeat;
+		width: 36px;
+		height: 36px;
+		margin-left:-18px;
+	}
+	#nav .opener {
+		margin:15px 0 0 13px;
+	}
+	#nav .slide > ul {
+		padding:13px 15px 17px;
+	}
+	#nav .slide > ul > li {
+		float:none;
+		width:auto;
+		padding:0;
+		margin:0 0 8px !important;
+	}
+	#nav .slide > ul > li ul {
+		padding:5px 0 0;
+		margin:0 0 -3px;
+	}
+	#nav .slide > ul > li > a {
+		font-size:20px;
+	}
+	#nav .slide > ul > li ul {
+		font-size:24px;
+		line-height:23px;
+	}
+	#header .search {
+		margin:12px 13px 0 0;
+	}
+	.pagination ul {
+		padding:0 12px;
+	}
+	.slideshow .pagination {margin:0 0 14px;}
+	.slideset {
+		margin:0 0 11px;
+	}
+	.page-heading .holder {padding:13px 0 16px;}
+	.advertisemet-box .title {
+		width:280px;
+		margin:0 auto 10px;
+		padding:0;
+		font-size:16px;
+	}
+	#wrapper {
+		width:auto;
+		padding:48px 12px 0;
+	}
+	.tabs-holder {
+		padding:19px 0 8px;
+	}
+/* 	.tabs-holder .column {width:240px;} */
+	.tabs-holder .column:first-child {
+		width:111px;
+		margin-bottom: 20px;
+	}
+	.tabs-holder .tabset {
+		font-size:22px;
+	}
+	.tabs-holder .title {
+		font-size:20px;
+		line-height:22px;
+	}
+	.tabset {
+		font-size:22px;
+		line-height:24px;
+	}
+	.tabset li a {
+		padding:0 0 2px;
+	}
+	.tabs-holder .column:first-child  .tabset li {margin:0;}
+	.tab-content .pagination {
+		padding:0 10px;
+		margin:0 0 60px;
+	}
+	.social-networks {
+		float:none;
+		overflow:hidden;
+		margin:0 0 5px;
+	}
+	.social-networks li:first-child {margin:0;}
+	.jcf-hidden {
+		position:static !important;
+		left:auto !important;
+	}
+	.select-area {display:none;}
+	#footer {
+		padding:8px 12px 10px;
+		margin:0 -12px;
+	}
+	#content {
+		width:auto;
+		float:none;
+		padding:20px 0 0;
+	}
+	#content h1 {
+		font-size:26px;
+		margin:-6px 0 19px;
+	}
+	#sidebar {
+		width:auto;
+		float:none;
+	}
+	#sidebar h2 {
+		font-size:23px;
+		margin:0 0 15px;
+	}
+	#sidebar ul {
+		font-size:15px;
+		line-height:21px;
+	}
+	.tab-content h1 {
+		font-size:26px;
+		padding:30px 0 0;
+		margin:0 0 10px;
+	}
+	.contact-box .column {
+		width:auto;
+		float:none;
+		margin:0 0 11px;
+	}
+	.contact-box {margin:0 0 25px;}
+	.tab-content h2 {font-size:23px;}
+	.sort-form {margin:0 0 38px;}
+	.sort-form p {font-size:17px;}
+	
+	.sort-form .search-hints .hints li.a {
+		margin-bottom: 10px;
+	}
+	.sort-form .search-hints .hints li,
+	.sort-form .search-hints span {
+		font-size:15px;
+	}
+	
+	
+	.tab-content h1.results-heading {
+		padding:10px 0 0;
+	}
+	.tab-content .content-list {
+		max-width:290px;
+	}
+	.sort-form .row {margin:0 0 4px;}
+	.sort-form .row input[type="text"] {
+		float:none;
+		display:block;
+		margin:0 0 12px;
+		width:280px;
+	}
+	.sort-form .select-holder {
+		float:none;
+		width:296px;
+		margin:0 0 11px;
+	}
+	.sort-form .select-holder:after {
+		content:"";
+		display:block;
+		clear:both;
+	}
+	.select-area {
+		margin:0;
+	}
+	.tab-content h1.results-heading {
+		width:148px;
+		font-size:29px;
+		line-height:31px;
+	}
+	.content-list {
+		max-width:170px;
+	}
+	.content-list li {margin:0 0 15px;}
+	
+	.intro .slide-heading {
+		bottom:auto;
+		top:15px;
+	}
+	.slide-heading .title {
+		font-size:22px;
+		line-height:24px;
+	}
+	.slide-heading h1 {
+		font-size:28px;
+		line-height:32px;
+	}
+	.slide-heading .author {
+		font-size:13px;
+	}
+	.posts-holder h2 {
+		width:148px;
+		font-size:29px;
+	}
+	.posts-holder h2.features-heading {
+		width:auto;
+	}
+	.posts-holder .holder {margin:0;}
+	.posts-holder .post {
+		width:auto;
+		display:block;
+		margin:0 0 40px;
+		padding:0;
+	}
+	.adv-list {
+		width:290px;
+		margin:0 auto;
+		height:145px;
+		overflow:hidden;
+	}
+	.adv-list li {
+		width:135px;
+		padding:0 5px 10px;
+	}
+	div.carousel div.mask div.slideset{
+		font-size:0;
+		line-height:0;
+	}
+	div.carousel div.mask div.slide {
+		width:100%;
+		margin:0;
+		display:inline-block;
+		vertical-align:top;
+		float:none;
+		font-size:12px;
+		line-height:24px;
+	}
+	div.carousel div.mask div.slideset {
+		width:100% !important;
+		white-space:nowrap;
+		overflow:visible;
+	}
+	div.carousel div.mask div.slideset .slide {
+		white-space:normal;
+	}
+	.carousel .btn-prev {
+		top:-45px;
+		right:17px;
+		left:auto;
+	}
+	.carousel .btn-next {
+		top:-45px;
+		right:0;
+	}
+	.slideshow {
+		margin:0 -12px 0;
+	}
+	.slideshow .text {display:none;}
+	.slide-heading {
+		bottom:auto;
+		top:27px;
+	}
+	.art-heading {
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/bg-art-heading3.png) no-repeat;
+		width: 288px;
+		height: 41px;
+	}
+	.page-heading {
+		background:none;
+		border-top:4px solid #b8b8b8;
+	}
+	.page-heading .holder {
+		border-bottom:4px solid #b8b8b8;
+		background:none;
+	}
+	.advertisemet-box {
+		padding:39px 0 39px;
+		background:none;
+		border-top:4px solid #b8b8b8;
+	}
+
+	.carousel-holder,
+	.twocolumns {
+		background:none;
+		padding:0;
+	}
+	.twocolumns .column,
+	.twocolumns .column:first-child {
+		float:none;
+		width:auto;
+		margin:0;
+		border-top:4px solid #b8b8b8;
+		padding:20px 0 130px;
+	}
+	.carousel-holder {
+		border-top:4px solid #b8b8b8;
+		padding:12px 0 0;
+	}
+	.carousel-holder h2 {
+		font-size:29px;
+		margin:0 0 23px;
+	}
+	.carousel .visual {margin:0 0 8px;}
+	.carousel h4 {
+		font-size:22px;
+		line-height:24px;
+		margin:0 0 5px;
+	}
+	.carousel p {font-size:15px;}
+	.carousel .date {font-size:14px;}
+	.carousel .type, .carousel .author {font-size:14px;}
+	.carousel-holder .carousel {margin:0 0 37px;}
+	.twocolumns .column, .twocolumns .column:first-child {
+		padding:48px 0 63px;
+	}
+	.twocolumns .column:first-child  {padding:20px 0 135px;}
+	.twocolumns .tabset {
+		font-size:32px;
+		line-height:36px;
+	}
+	.twocolumns img {margin:0 0 13px;}
+	.twocolumns p {margin:0 0 11px;}
+	.text-box .caption {
+		float:none;
+		display:inline-block;
+		vertical-align:top;
+	}
+	.text-box .text {
+		-moz-column-count:1;
+		-webkit-column-count :1;
+		column-count:1;
+		-webkit-column-gap:0;
+		-moz-column-gap:0;
+		column-gap:0;
+	}
+	.text-box .text {
+		line-height: 25px;
+	}
+	.text-box .text p {
+		margin:0 0 25px;
+		text-align:left;
+	}
+	.article {
+		padding:0;
+	}
+	.article-event {
+		margin:20px 0 0;
+	}
+	.article .aside {
+		position:static;
+		height:auto;
+		min-height:1px;
+		padding:0;
+		width:auto;
+		margin:0;
+	}
+	.aside .menu {
+		width:auto;
+		margin:0 0 28px;
+		font-size:17px;
+		line-height:17px;
+	}
+	.article .img-list {padding:13px 5px 0 0;}
+	.article .img-list li {
+		padding: 0 14px 16px 16px;
+	}
+	.single-post .aside h3 {
+		font-size:23px;
+		margin:0 0 8px;
+	}
+	.slideshow-link {display:none;}
+	.article .aside .share-box {
+		margin:0 0 13px;
+	}
+	.initials-holder {
+		padding-left:37px;
+	}
+	.text .initials {
+		left:0;
+	}
+	.box h2 {
+		float:none;
+		width:auto;
+	}
+	.box .text {
+		padding:0;
+	}
+	.box .text ol {
+		margin:0;
+	}
+	.posts-list li,
+	.posts-list li:first-child {
+		float:none;
+		width:auto;
+		margin:0 0 10px;
+	}
+	.posts-list li .visual {display:none;}
+	.intro .slide-heading {
+		padding:11px;
+	}
+	.intro .slide-heading .title {
+		font-size:22px;
+	}
+	.intro .slide-heading h1 {
+		font-size:28px;
+		line-height:28px;
+	}
+	.intro.issue .slide-heading {
+		bottom:auto;
+		top:15px;
+		padding:8px 11px 17px;
+	}
+	.intro.issue .slide-heading .title {
+		font-size:22px;
+	}
+	.intro.issue .slide-heading h1 {
+		font-size:28px;
+		line-height:32px;
+		margin:0 0 3px;
+	}
+	.text-box .caption {
+		font-size:14px;
+		margin:-5px 0 13px;
+	}
+	.carousel-holder header .more {display:none;}
+	.posts-holder header .more {display:none;}
+	.article .media,
+	.article .visual-wide {
+		margin:0;
+	}
+	.article .pre-media {margin-left:0;}
+	.article h2 {
+		font-size:25px;
+		line-height:28px;
+		margin:0 0 6px;
+	}
+	.article h1 {
+		font-size:37px;
+		line-height:38px;
+		word-spacing:-1px;
+		margin:0 0 7px;
+	}
+	.gallery-info .date {margin:0 0 7px;}
+	.article-event .author {margin:0 0 7px;}
+	.article .read-more {
+		position:static;
+		right:auto;
+		top:auto;
+		float:none;
+		margin:0 0 15px;
+		display:inline-block;
+		vertical-align:top;
+	}
+	.article header .pick-icon {
+		top:0;
+		right:0;
+		bottom:auto;
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/ico04.png) no-repeat;
+		width: 49px;
+		height: 24px;
+	}
+	.gallery-info {
+		position:static;
+		left:auto;
+		top:auto;
+		width:auto;
+		margin:0 0 30px;
+		padding:6px 0 0;
+	}
+	.gallery-info h3 {
+		font-size:20px !important; 
+		margin:0 0 4px;
+	}
+	.gallery-info h2 {
+		font-size:21px;
+		line-height:23px;
+		margin:0 0 4px;
+	}
+	.article .visual {margin:0 0 25px;}
+	.box {
+		margin:0 -12px;
+		padding:10px 12px;
+	}
+	.box h2 {
+		width:auto;
+		margin:0 0 10px;
+	}
+	.box .text ol {
+		padding-left:18px;
+		margin:0 0 16px;
+	}
+	.box ol li {
+		padding:0 0 12px 19px;
+	}
+	.posts-list {padding:0;}
+	.posts-list li,
+	.posts-list li:first-child {
+		margin:0 0 13px;
+	}
+	.posts-list h3 {
+		font-size:22px;
+		line-height:22px;
+		margin:0 0 2px;
+	}
+	.article.single-post {
+		padding:0;
+	}
+	.article section .back {
+		position:static;
+		left:auto;
+	}
+	.carousel2 div.mask {
+		width:296px;
+		/*margin:0 auto;*/
+	}
+	.carousel2 div.mask div.slide {
+		width:296px;
+	}
+	.carousel2 .slide ul .dates {
+		font-size:14px;
+	}
+	.box ol  {
+		padding-right:37px;
+	}
+	.carousel-tab-content {display:none;}
+	.article .initials {
+		left:0;
+	}
+
+	body.postEventPage #main-form {
+		display: none;
+	}
+	body.postEventPage #mobile-message {
+		display: block;
+	}
+
+	body.postEventPage #wrapper {
+		padding: 28px 0 0 0;	
+	}
+	body.postEventPage #wrapper .row {
+		padding-left: 10px;	
+		padding-right: 10px;	
+	}
+	
+	body.postEventPage h1.page-heading	{
+		width: auto;
+		max-width: 220px;
+	}	
+
+
+	body.searchEventsPage #wrapper {
+		width: auto;
+		padding: 65px 12px 0;
+	}
+	
+		body.searchEventsPage h2 {
+			width: 214px;
+			font-size: 24px;
+			line-height: 26px;
+		}
+
+		section.large-posts-holder .posts {
+			white-space: nowrap;
+			overflow: hidden;
+		}
+		section.large-posts-holder .posts .large-post {
+			width: 100%;
+			height: 152px;
+			white-space: normal;
+			position: relative;
+		}		
+			section.large-posts-holder .posts .large-post .text {
+				padding: 15px 10px;
+			}
+
+		section.events-search-form-holder .column {
+			width: 48%;
+			margin-right: 2%;
+			margin-bottom: 20px;
+		}			
+
+	body.searchEventsPage div.sections-divider {
+		display: none;
+	}
+
+	body.searchEventsPage form .row {
+		padding: 0 5px;
+	}
+	
+	section.events-keywords-search-form-holder .row input[type="text"] {
+		width: 100%;
+		margin-bottom: 10px;
+	}
+	
+	section.events-results-holder div.results-list div.list-item {
+		width: 100%;
+		margin: 0 0 20px 0;
+	}
+	
+	section.events-results-holder .pagination {
+		font-size: 18px;
+		line-height: 18px;
+	}
+
+	section.events-results-holder .pagination li {
+		padding:0 5px 0 4px;
+	}
+
+		section.events-search-form-holder .column .select-holder {
+			width: 90%;
+		}
+
+
+
+	.event-related-events {
+		padding:0;
+	}
+	.event-related-events .aside {
+		position:static;
+		height:auto;
+		min-height:1px;
+		padding:10px 0 0 0;
+		width:auto;
+		margin:0 0 15px 0;
+	}
+	.event-related-events h2 {
+		font-size:21px;
+		line-height:23px;
+		margin:0 0 4px;
+	}
+
+	.event-related-events div.results-list div.list-item {
+		width: 100%;
+		margin: 0 0 20px 0;
+	}
+
+	.sort-form-note {
+		margin: -20px 0 30px 0;		
+	}
+
+		.additional-events li h4 {
+			font:20px/23px "gandhi_sansregular";
+		}
+		.additional-events li span.venue {
+			font: 16px/20px "gandhi_sansregular";
+		}
+		.additional-events li span.dates {
+			font: 14px/16px "gandhi_sansregular";
+		}
+		.additional-events li span.category {
+			font:italic 14px/17px Georgia, "Times New Roman", Times, serif;
+		}
+		
+	.intro .solid-color {
+		min-height: 225px;
+	}
+		
+	
+} /* End Mobile */
+
+
+@media only screen and  (max-width:480px) {
+	.slide-heading h1 {
+		font-size:20px;
+		line-height:24px;
+	}
+	.tabs-holder .column:first-child {
+		margin:0 0 10px;
+	}
+	.tabs-holder {
+		padding:19px 0 0;
+	}
+}
+@media
+( -webkit-min-device-pixel-ratio : 1.5 ),
+( min-resolution : 144dpi ) {
+	#header .logo  {
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/logo@2x.png) no-repeat;
+		background-size:43px 43px;
+	}
+	#nav .opener {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -28px 0; 
+		background-size: 200px 120px;
+	}
+	#header .search {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat; 
+		background-size: 200px 120px;
+	}
+	div.media-carousel .btn-prev,
+	div.media-carousel .btn-next  {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/btn-slideshow@2x.png') no-repeat 0 0; 
+		background-size: 50px 55px;
+	}
+	div.media-carousel .btn-next {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/btn-slideshow@2x.png') no-repeat 100% 0; 
+		background-size: 50px 55px;
+	}
+	.home .pagination ul li.info a:after {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat 0px -30px; 
+		background-size: 200px 120px;
+	}
+	.social-networks li a.facebook {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat 0px -60px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.twitter {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -30px -60px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.tumblr {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -61px -60px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.pinterest {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -91px -60px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.rss {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -121px -60px; ; 		
+		background-size: 200px 120px;
+	}
+
+	.social-networks li a.facebook:hover {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat 0px -90px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.twitter:hover {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -30px -90px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.tumblr:hover {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -61px -90px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.pinterest:hover {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -91px -90px; ; 		
+		background-size: 200px 120px;
+	}
+	.social-networks li a.rss:hover {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/sprite@2x.png') no-repeat -121px -90px; ; 		
+		background-size: 200px 120px;
+	}
+
+}
+@media
+(max-width:767px) and ( -webkit-min-device-pixel-ratio : 1.5 ),
+(max-width:767px) and ( min-resolution : 144dpi ) {
+	#header .logo {
+		background: url(/15633/20201226025722im_/https://www.artpractical.com/assets/images/logo02@2x.png) no-repeat;
+		background-size:36px 36px;
+	}
+	div.media-carousel .btn-prev,
+	div.media-carousel .btn-next  {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/btn-slideshow@2x.png') no-repeat 0 -30px; 
+		background-size: 50px 55px;
+	}
+	div.media-carousel .btn-next {
+		background: url('/15633/20201226025722im_/https://www.artpractical.com/assets/images/btn-slideshow@2x.png') no-repeat -15px -30px; 
+		background-size: 50px 55px;
+	}
+}
+
+/*
+     FILE ARCHIVED ON 02:57:22 Dec 26, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:52:49 Jan 09, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RulesEngine.query: 26.747
+  PetaboxLoader3.resolve: 137.895 (2)
+  PetaboxLoader3.datanode: 43.877 (2)
+*/
